@@ -4,10 +4,16 @@ import requests
 import lxml
 import time
 
-url = "https://www.procyclingstats.com/race/milano-sanremo/2023/result/live"
 
+def get(race):
+    global url
+    if race == 'Brugge-De Panne 2023':
+        url = "https://www.procyclingstats.com/race/oxyclean-classic-brugge-de-panne/2023/result/live"
+    elif race == 'Stage 3 (Volta a Catalunya 2023)':
+        url = 'https://www.procyclingstats.com/race/volta-a-catalunya/2023/stage-3/live'
+    else:
+        return None
 
-def get():
     req = requests.get(url)
     html = req.content
 

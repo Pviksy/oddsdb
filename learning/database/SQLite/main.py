@@ -21,6 +21,7 @@ def get_odds():
 
     for event in events:
         race = event['event']['englishName']
+        km_to_go = kmtogo.get(race)
 
         bet_offers = event['betOffers']
 
@@ -31,7 +32,7 @@ def get_odds():
                 rider = outcome['englishLabel']
                 size = (outcome['odds'] / 1000).__str__()
 
-                entry = (None, 'Unibet', race, rider, size, now)
+                entry = (None, 'Unibet', race, rider, size, now, km_to_go)
 
                 # previous entry in db with the same rider and race name
                 prev = db.select_entry(entry)
@@ -44,7 +45,7 @@ def get_odds():
                     if race == prev_race and rider == prev_rider and size != prev_size:
                         odds_changed += 1  # count for every time an entry changes odds
 
-                        db.insert(entry + (None,))  # if odds changed, insert new entry now
+                        db.insert(entry)  # if odds changed, insert new entry now
 
                         db.select_entries(entry)  # show offers with odds that have changed (testing)
 
@@ -54,10 +55,10 @@ def get_odds():
 
 get_odds()
 
-# updates = 0
-# while True:
-#    updates += 1
-#    get_odds()
-#    time.sleep(60)
+#updates = 0
+#while True:
+#   updates += 1
+#   get_odds()
+#   time.sleep(30)
 
-# db.table_of('Stage 2 (Volta a Catalunya 2023)')
+#db.table_of('Stage 3 (Volta a Catalunya 2023)')

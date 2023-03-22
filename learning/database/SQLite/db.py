@@ -40,7 +40,7 @@ def select_entry(entry):
     c.execute("SELECT * FROM odds WHERE race = ? AND rider = ? ORDER BY datetime DESC LIMIT 1", (entry[2], entry[3]))
     prev = c.fetchone()
     if prev is None:
-        insert(entry + (None,))  # if matching entry is not found, entry was not added to as a betoffer until now
+        insert(entry)  # if matching entry is not found, entry was not added to as a betoffer until now
         logging.info("Inserted new entry: " + str(entry))
     else:
         return prev
@@ -78,7 +78,7 @@ def select_all():
 def table_of(race_name):
     conn = sqlite3.connect(db_name)
     c = conn.cursor()
-    c.execute("""SELECT id, datetime, size, rider, race 
+    c.execute("""SELECT id, datetime, km_to_go, size, rider, race 
                  FROM odds WHERE race = ?
                  ORDER BY race, rider, datetime""", (race_name,))
     rows = c.fetchall()
