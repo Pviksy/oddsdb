@@ -1,0 +1,43 @@
+.chart {
+    -fx-background-color: #222222;
+}
+
+.chart-plot-background {
+    -fx-background-color: #333333;
+}
+
+.chart-title {
+    -fx-text-fill: #EEEEEE;
+    -fx-font-size: 24px;
+}
+
+.axis {
+    -fx-tick-label-fill: #EEEEEE;
+    -fx-font-size: 14px;
+}
+
+.chart-series-line {
+    -fx-stroke: #4ecdc4;
+}
+
+.chart-series-line:hover {
+    -fx-stroke: #ff6b6b;
+}
+
+.chart-legend {
+    -fx-background-color: #222222;
+    -fx-border-color: #4ecdc4;
+    -fx-text-fill: #EEEEEE;
+}
+
+.chart-legend-item:hover {
+    -fx-text-fill: #4ecdc4;
+}
+
+.chart-legend-item-symbol {
+    -fx-background-color: #4ecdc4;
+}
+
+.chart-legend-item:hover .chart-legend-item-symbol {
+    -fx-background-color: #ff6b6b;
+}

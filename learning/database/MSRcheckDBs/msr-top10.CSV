@@ -1,0 +1,94 @@
+km_to_go;size;rider;p_size;p_km
+33,1;11;van der Poel, Mathieu;;33,1
+23,4;12;van der Poel, Mathieu;;23,4
+19,8;11;van der Poel, Mathieu;11;19,8
+18,4;9;van der Poel, Mathieu;9;18,4
+17,4;12;van der Poel, Mathieu;12;17,4
+16,3;11;van der Poel, Mathieu;11;16,3
+12,7;12;van der Poel, Mathieu;12;12,7
+8;10;van der Poel, Mathieu;10;8
+5,8;15;van der Poel, Mathieu;15;5,8
+3,5;3;van der Poel, Mathieu;3;3,5
+2;1,2;van der Poel, Mathieu;1,2;2
+0;1,2;van der Poel, Mathieu;#NAVN?;#NAVN?
+33,1;34;Ganna, Filippo;34;33,1
+18,6;31;Ganna, Filippo;31;18,6
+17,5;34;Ganna, Filippo;34;17,5
+16,9;31;Ganna, Filippo;31;16,9
+13;26;Ganna, Filippo;26;13
+5,1;8;Ganna, Filippo;8;5,1
+2,9;7;Ganna, Filippo;7;2,9
+2,3;9;Ganna, Filippo;9;2,3
+0;9;Ganna, Filippo;#NAVN?;#NAVN?
+33,1;5;Van Aert, Wout;5;33,1
+18,5;5,5;Van Aert, Wout;5,5;18,5
+9,6;6;Van Aert, Wout;6;9,6
+9;5,5;Van Aert, Wout;5,5;9
+8;6;Van Aert, Wout;6;8
+7,3;7;Van Aert, Wout;7;7,3
+3,5;2,75;Van Aert, Wout;2,75;3,5
+2,8;2,5;Van Aert, Wout;2,5;2,8
+2;6;Van Aert, Wout;6;2
+0;6;Van Aert, Wout;#NAVN?;#NAVN?
+33,1;5;Pogacar, Tadej;5;33,1
+25,9;4,5;Pogacar, Tadej;4,5;25,9
+23;5;Pogacar, Tadej;5;23
+15,7;5,5;Pogacar, Tadej;5,5;15,7
+10,7;6;Pogacar, Tadej;6;10,7
+8,1;6,5;Pogacar, Tadej;6,5;8,1
+3,7;5;Pogacar, Tadej;5;3,7
+2,9;6;Pogacar, Tadej;6;2,9
+2,1;7;Pogacar, Tadej;7;2,1
+0;7;Pogacar, Tadej;#NAVN?;#NAVN?
+33,1;19;Kragh Andersen, Soren;19;33,1
+17,9;15;Kragh Andersen, Soren;15;17,9
+12,9;19;Kragh Andersen, Soren;19;12,9
+0;19;Kragh Andersen, Soren;#NAVN?;#NAVN?
+33,1;7,5;Pedersen, Mads;7,5;33,1
+26;8;Pedersen, Mads;8;26
+10,7;9;Pedersen, Mads;9;10,7
+9,7;8;Pedersen, Mads;8;9,7
+7,3;7;Pedersen, Mads;7;7,3
+3,7;13;Pedersen, Mads;13;3,7
+0;13;Pedersen, Mads;#NAVN?;#NAVN?
+33,1;67;Powless, Neilson;67;33,1
+24,7;46;Powless, Neilson;46;24,7
+24,1;41;Powless, Neilson;41;24,1
+22,9;46;Powless, Neilson;46;22,9
+20,5;41;Powless, Neilson;41;20,5
+9,5;36;Powless, Neilson;36;9,5
+5,7;41;Powless, Neilson;41;5,7
+3,4;36;Powless, Neilson;36;3,4
+1,9;31;Powless, Neilson;31;1,9
+0;31;Powless, Neilson;#NAVN?;#NAVN?
+33,1;17;Mohoric, Matej;17;33,1
+20,7;13;Mohoric, Matej;13;20,7
+12,8;15;Mohoric, Matej;15;12,8
+9,8;11;Mohoric, Matej;11;9,8
+9,1;10;Mohoric, Matej;10;9,1
+8,5;9;Mohoric, Matej;9;8,5
+8,1;8;Mohoric, Matej;8;8,1
+6;12;Mohoric, Matej;12;6
+3,8;15;Mohoric, Matej;15;3,8
+0;15;Mohoric, Matej;#NAVN?;#NAVN?
+33,1;51;Turgis, Anthony;51;33,1
+15,2;46;Turgis, Anthony;46;15,2
+13,7;51;Turgis, Anthony;51;13,7
+11,4;31;Turgis, Anthony;31;11,4
+10,6;34;Turgis, Anthony;34;10,6
+9,6;31;Turgis, Anthony;31;9,6
+5,8;34;Turgis, Anthony;34;5,8
+3,6;36;Turgis, Anthony;36;3,6
+2;31;Turgis, Anthony;31;2
+0;31;Turgis, Anthony;#NAVN?;#NAVN?
+33,1;56;Stuyven, Jasper;56;33,1
+30,3;61;Stuyven, Jasper;61;30,3
+26,4;56;Stuyven, Jasper;56;26,4
+23;61;Stuyven, Jasper;61;23
+20,6;56;Stuyven, Jasper;56;20,6
+8,1;51;Stuyven, Jasper;51;8,1
+5,9;67;Stuyven, Jasper;67;5,9
+4,9;61;Stuyven, Jasper;61;4,9
+3,6;46;Stuyven, Jasper;46;3,6
+2,1;36;Stuyven, Jasper;36;2,1
+0;36;Stuyven, Jasper;#NAVN?;#NAVN?
