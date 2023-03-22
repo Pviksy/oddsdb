@@ -1,0 +1,13 @@
+if (id DOES NOT exist)
+
+	if (team name match is found)
+		create new team with same org_id
+
+	else if (threshold of riders is found)
+		create new team with same org_id
+
+	else
+		create new team with new org_id
+
+else (id exists) 
+	update the team riders (via url built with id)

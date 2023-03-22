@@ -1,0 +1,14 @@
+- Get list of races that have odds from the JSON
+
+if (odds on this race already exists)
+	if (any odds changed)
+		insert new row in odds table accordingly
+else
+	insert odds of all participants from this JSON
+
+
+
+
+
+if (is a stage race)
+	go to info page to scrape individual race days (with dates)

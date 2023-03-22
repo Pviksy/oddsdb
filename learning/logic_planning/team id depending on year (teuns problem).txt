@@ -1,0 +1,12 @@
+    # get team_id from the rider page in case a rider has transferred mid-season.
+    # this will make sure the team_id for the rider is correct.
+    # Find the <a> tag that contains the substring "team.php?l="
+    if service.is_current_year() is True:
+        team_id = team_id_from_team_page
+    else:
+        year_div = soup.find('div', class_='yearData')
+        a_tag = year_div.find('a', href=lambda href: href and "team.php?l=" in href)
+        if a_tag:
+            href = a_tag['href']
+            index = href.index("team.php?l=") + len("team.php?l=")
+            team_id = href[index:]

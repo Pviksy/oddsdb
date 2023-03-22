@@ -1,0 +1,12 @@
+If this team.id exists:		(can be limited to check teams with same category)
+	New riders on team? (insert)
+	Riders left team? (delete)
+	Riderinfo updated? (update)
+
+If this team.id DOES NOT exists: 	(check all team names in order to search similar names first)
+	Find team with matching rider_ids (amount should be: 10? 15? 20? not sure)
+		If team with threshold exists:
+			Create new team with same org_id as team with threshold of rider_ids
+		If team with threshold DOES NOT exist:
+			Create new team with new org_id
+	

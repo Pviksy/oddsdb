@@ -1,0 +1,12 @@
+Get race info from json
+Date and name
+
+Use this info to specify URL to firstcycling races page (https://firstcycling.com/race.php?y=2023&t=2)
+	Change year and month according to date
+
+Find the race by matching date and name in the table(s)
+	Stage race odds will contain ending date ("2023-07-23T13:00:00Z" for TDF GC)
+
+Get URL for the race page
+	If its a stage, go to https://firstcycling.com/race.php?r=17&y=2023&k=2 (k=2 is info page)
+		
