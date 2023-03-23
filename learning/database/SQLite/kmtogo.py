@@ -7,10 +7,8 @@ import time
 
 def get(race):
     global url
-    if race == 'Brugge-De Panne 2023':
-        url = "https://www.procyclingstats.com/race/oxyclean-classic-brugge-de-panne/2023/result/live"
-    elif race == 'Stage 3 (Volta a Catalunya 2023)':
-        url = 'https://www.procyclingstats.com/race/volta-a-catalunya/2023/stage-3/live'
+    if race == 'Stage 4 (Volta a Catalunya 2023)':
+        url = 'https://www.procyclingstats.com/race/volta-a-catalunya/2023/stage-4/live'
     else:
         return None
 
