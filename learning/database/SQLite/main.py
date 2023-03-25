@@ -57,11 +57,11 @@ get_odds()
 
 #updates = 0
 #while True:
-#   updates += 1
-#   get_odds()
-#   time.sleep(60)
+#    updates += 1
+#    get_odds()
+#    time.sleep(60)
 
-#db.table_of('Stage 3 (Volta a Catalunya 2023)')
-#db.table_of('Brugge-De Panne 2023')
+# db.table_of('Stage 5 (Volta a Catalunya 2023)')
+# db.table_of('Brugge-De Panne 2023')
 
-#db.table_of('Paris - Roubaix 2023')
+# db.table_of('Paris - Roubaix 2023')
