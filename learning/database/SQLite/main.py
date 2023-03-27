@@ -59,7 +59,7 @@ get_odds()
 #while True:
 #    updates += 1
 #    get_odds()
-#    time.sleep(60)
+#    time.sleep(600)
 
 # db.table_of('Stage 5 (Volta a Catalunya 2023)')
 # db.table_of('Brugge-De Panne 2023')
