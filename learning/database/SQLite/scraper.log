@@ -19014,3 +19014,1742 @@
 2023/03/26 21:04:17 - Odds changed: 0
 2023/03/26 21:14:18 - Odds changed: 0
 2023/03/26 23:32:16 - Odds changed: 0
+2023/04/02 09:54:29 - Entry: (11084, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 51.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7913, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 34.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11085, 'Unibet', 'Tour of Flanders 2023', 'Allegaert, Piet', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7914, 'Unibet', 'Tour of Flanders 2023', 'Allegaert, Piet', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11086, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 29.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (10986, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 26.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:29 - Entry: (11087, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 23.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7922, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 34.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11088, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 1501.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7935, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11089, 'Unibet', 'Tour of Flanders 2023', 'De Gendt, Aime', 1501.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7936, 'Unibet', 'Tour of Flanders 2023', 'De Gendt, Aime', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11090, 'Unibet', 'Tour of Flanders 2023', 'De Pooter, Dries', 1501.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7938, 'Unibet', 'Tour of Flanders 2023', 'De Pooter, Dries', 1001.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11091, 'Unibet', 'Tour of Flanders 2023', 'Dewulf, Stan', 601.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7942, 'Unibet', 'Tour of Flanders 2023', 'Dewulf, Stan', 501.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11092, 'Unibet', 'Tour of Flanders 2023', 'Dillier, Silvan', 1501.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7943, 'Unibet', 'Tour of Flanders 2023', 'Dillier, Silvan', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11093, 'Unibet', 'Tour of Flanders 2023', 'Doull, Owain', 801.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7944, 'Unibet', 'Tour of Flanders 2023', 'Doull, Owain', 501.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11094, 'Unibet', 'Tour of Flanders 2023', 'Dujardin, Sandy', 1501.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (463, 'Unibet', 'Tour of Flanders 2023', 'Dujardin, Sandy', 801.0, '2023/03/11 22:02:58', None)
+2023/04/02 09:54:29 - Entry: (11095, 'Unibet', 'Tour of Flanders 2023', 'Durbridge, Luke', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7945, 'Unibet', 'Tour of Flanders 2023', 'Durbridge, Luke', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11096, 'Unibet', 'Tour of Flanders 2023', 'Edmondson, Alexander', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (466, 'Unibet', 'Tour of Flanders 2023', 'Edmondson, Alexander', 801.0, '2023/03/11 22:02:58', None)
+2023/04/02 09:54:29 - Entry: (11097, 'Unibet', 'Tour of Flanders 2023', 'Eekhoff, Nils', 801.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7947, 'Unibet', 'Tour of Flanders 2023', 'Eekhoff, Nils', 601.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:29 - Entry: (11098, 'Unibet', 'Tour of Flanders 2023', 'Geniets, Kevin', 601.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:29 - Entry: (7953, 'Unibet', 'Tour of Flanders 2023', 'Geniets, Kevin', 501.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11099, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 126.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (10992, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 101.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11100, 'Unibet', 'Tour of Flanders 2023', 'Gogl, Michael', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (480, 'Unibet', 'Tour of Flanders 2023', 'Gogl, Michael', 601.0, '2023/03/11 22:02:58', None)
+2023/04/02 09:54:30 - Entry: (11101, 'Unibet', 'Tour of Flanders 2023', 'Haller, Marco', 601.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7959, 'Unibet', 'Tour of Flanders 2023', 'Haller, Marco', 501.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11102, 'Unibet', 'Tour of Flanders 2023', 'Hofstetter, Hugo', 801.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7965, 'Unibet', 'Tour of Flanders 2023', 'Hofstetter, Hugo', 501.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11103, 'Unibet', 'Tour of Flanders 2023', 'Honore, Mikkel Frølich', 201.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7966, 'Unibet', 'Tour of Flanders 2023', 'Honore, Mikkel Frølich', 401.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11104, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7967, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11105, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 67.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7973, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 101.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11106, 'Unibet', 'Tour of Flanders 2023', 'Keukeleire, Jens', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7976, 'Unibet', 'Tour of Flanders 2023', 'Keukeleire, Jens', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11107, 'Unibet', 'Tour of Flanders 2023', 'Kragh Andersen, Soren', 81.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (10995, 'Unibet', 'Tour of Flanders 2023', 'Kragh Andersen, Soren', 67.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11108, 'Unibet', 'Tour of Flanders 2023', 'Kristoff, Alexander', 81.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7980, 'Unibet', 'Tour of Flanders 2023', 'Kristoff, Alexander', 101.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11109, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 51.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (10997, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 67.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11110, 'Unibet', 'Tour of Flanders 2023', 'Lampaert, Yves', 251.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7983, 'Unibet', 'Tour of Flanders 2023', 'Lampaert, Yves', 201.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11111, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 15.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (10998, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 21.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11112, 'Unibet', 'Tour of Flanders 2023', 'Madouas, Valentin', 29.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (10999, 'Unibet', 'Tour of Flanders 2023', 'Madouas, Valentin', 67.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11113, 'Unibet', 'Tour of Flanders 2023', 'Matthews, Michael', 126.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11000, 'Unibet', 'Tour of Flanders 2023', 'Matthews, Michael', 151.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11114, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 401.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7994, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 251.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11115, 'Unibet', 'Tour of Flanders 2023', 'Meurisse, Xandro', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7995, 'Unibet', 'Tour of Flanders 2023', 'Meurisse, Xandro', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11116, 'Unibet', 'Tour of Flanders 2023', 'Mezgec, Luka', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (7996, 'Unibet', 'Tour of Flanders 2023', 'Mezgec, Luka', 601.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11117, 'Unibet', 'Tour of Flanders 2023', 'Naesen, Oliver', 501.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8000, 'Unibet', 'Tour of Flanders 2023', 'Naesen, Oliver', 401.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11118, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11001, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 101.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11119, 'Unibet', 'Tour of Flanders 2023', "O'Brien, Kelland", 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (531, 'Unibet', 'Tour of Flanders 2023', "O'Brien, Kelland", 301.0, '2023/03/11 22:02:58', None)
+2023/04/02 09:54:30 - Entry: (11120, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 34.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11002, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 21.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11121, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 19.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11003, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 41.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11122, 'Unibet', 'Tour of Flanders 2023', 'Planckaert, Baptiste', 1501.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (544, 'Unibet', 'Tour of Flanders 2023', 'Planckaert, Baptiste', 801.0, '2023/03/11 22:02:58', None)
+2023/04/02 09:54:30 - Entry: (11123, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.75, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8014, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.5, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11124, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 126.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11004, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 101.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Robeet, Ludovic', '1001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11126, 'Unibet', 'Tour of Flanders 2023', 'Sheffield, Magnus', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11005, 'Unibet', 'Tour of Flanders 2023', 'Sheffield, Magnus', 101.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11127, 'Unibet', 'Tour of Flanders 2023', 'Stybar, Zdenek', 601.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8033, 'Unibet', 'Tour of Flanders 2023', 'Stybar, Zdenek', 401.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11128, 'Unibet', 'Tour of Flanders 2023', 'Swift, Connor', 801.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8035, 'Unibet', 'Tour of Flanders 2023', 'Swift, Connor', 601.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11129, 'Unibet', 'Tour of Flanders 2023', 'Teuns, Dylan', 251.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8037, 'Unibet', 'Tour of Flanders 2023', 'Teuns, Dylan', 501.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11130, 'Unibet', 'Tour of Flanders 2023', 'Theuns, Edward', 601.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8038, 'Unibet', 'Tour of Flanders 2023', 'Theuns, Edward', 501.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11131, 'Unibet', 'Tour of Flanders 2023', 'Turner, Ben', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8043, 'Unibet', 'Tour of Flanders 2023', 'Turner, Ben', 101.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11132, 'Unibet', 'Tour of Flanders 2023', 'Vacek, Mathias', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8044, 'Unibet', 'Tour of Flanders 2023', 'Vacek, Mathias', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11133, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8045, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.5, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11134, 'Unibet', 'Tour of Flanders 2023', 'Van Asbroeck, Tom', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8046, 'Unibet', 'Tour of Flanders 2023', 'Van Asbroeck, Tom', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11135, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 81.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11007, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 51.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11136, 'Unibet', 'Tour of Flanders 2023', 'Van Moer, Brent', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8053, 'Unibet', 'Tour of Flanders 2023', 'Van Moer, Brent', 601.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11137, 'Unibet', 'Tour of Flanders 2023', 'Van der Sande, Tosh', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8055, 'Unibet', 'Tour of Flanders 2023', 'Van der Sande, Tosh', 601.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11138, 'Unibet', 'Tour of Flanders 2023', 'Vanmarcke, Sep', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11008, 'Unibet', 'Tour of Flanders 2023', 'Vanmarcke, Sep', 126.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11139, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11009, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 201.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11140, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Gianni', 251.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11010, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Gianni', 151.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11141, 'Unibet', 'Tour of Flanders 2023', 'Watson, Samuel', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8063, 'Unibet', 'Tour of Flanders 2023', 'Watson, Samuel', 501.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11142, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (11012, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 201.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:30 - Entry: (11143, 'Unibet', 'Tour of Flanders 2023', 'Zingle, Axel', 801.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8067, 'Unibet', 'Tour of Flanders 2023', 'Zingle, Axel', 501.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:30 - Entry: (11144, 'Unibet', 'Tour of Flanders 2023', 'van der Hoorn, Taco', 501.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:30 - Entry: (8070, 'Unibet', 'Tour of Flanders 2023', 'van der Hoorn, Taco', 301.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:31 - Entry: (11145, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.3, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Entry: (8071, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.5, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:31 - Entry: (11146, 'Unibet', 'Tour of Flanders 2023', 'Touze, Damien', 1501.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Entry: (617, 'Unibet', 'Tour of Flanders 2023', 'Touze, Damien', 801.0, '2023/03/11 22:02:58', None)
+2023/04/02 09:54:31 - Entry: (11147, 'Unibet', 'Tour of Flanders 2023', 'Turgis, Anthony', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Entry: (11015, 'Unibet', 'Tour of Flanders 2023', 'Turgis, Anthony', 101.0, '2023/03/26 17:24:42', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Lazkano, Oier', '301.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', '41.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Ballerstedt, Maurice', '1001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Bax, Sjoerd', '801.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Berckmoes,\xa0Jenno', '1501.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Ewan, Caleb', '251.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Gautherat, Pierre', '1501.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Laegen, Vegard Stake', '801.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Naesen, Lawrence', '1001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Bevin, Patrick', '801.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Heinschke, Leon', '1001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Vermaerke, Kevin', '1001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Le Berre, Mathis', '1001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'McLay, Daniel', '801.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Archbold, Shane', '1501.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Chzhan, Igor', '2001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'De Wilde, Gilles', '1501.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Laas, Martin', '1001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Liepins, Emils', '1001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Maciejuk, Filip', '1501.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Nurlykhassym, Nurbergen', '2001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Scully, Tom', '1001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Colombo, Filippo', '2001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Bauer, Jack', '1501.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Braet, Vito', '2001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Frison, Frederik', '401.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Neilands, Krists', '401.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Resell, Erik Nordsaeter', '801.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', '1001.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Amialiusik, Alena', '401.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Arzuffi, Alice Maria', '501.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Backstedt, Zoe', '81.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Balsamo, Elisa', '34.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Barker, Elinor', '301.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Bastianelli, Marta', '51.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Biannic, Aude', '401.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Bossuyt, Shari', '101.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Brand, Lucinda', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Brown, Grace', '34.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Cant, Sanne', '401.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Cecchini, Elena', '81.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Chabbey, Elise', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Coles-Lyster, Maggie', '501.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Confalonieri, Maria Giulia', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Copponi, Clara', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:31 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Cordon, Audrey', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Demey, Valerie', '601.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Dideriksen, Amalie', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Drummond, Michaela', '301.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Faulkner, Kristen', '126.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Fidanza, Arianna', '601.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Georgi, Pfeiffer', '41.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Ghekiere, Justine', '401.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Guazzini, Vittoria', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Harris, Ella', '301.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Henderson, Anna', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Henttala, Lotta', '301.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Jackson, Alison', '401.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Jaskulska, Marta', '601.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Jastrab, Megan', '81.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Koch, Franziska', '501.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Kopecky, Lotte', '2.5', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Labecki, Coryn', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Labous, Juliette', '101.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Lach, Marta', '301.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Lippert, Liane', '41.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Longo Borghini, Elisa', '29.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Ludwig, Cecilie Uttrup', '41.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Mackaij, Floortje', '81.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Majerus, Christine', '101.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Manly, Alexandra', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Moolman-Pasio, Ashleigh', '67.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Niewiadoma, Katarzyna', '41.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Paladin, Soraya', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Persico, Silvia', '34.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Ragusa, Katia', '601.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Reusser, Marlen', '7.5', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Roseman-Gannon, Ruby', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Schweinberger, Christina', '201.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Skalniak-Sojka, Agnieszka', '201.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Stephens, Lauren', '501.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Vandenbulcke, Jesse', '601.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Verhulst, Gladys', '201.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Vollering, Demi', '5.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Vos, Marianne', '17.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Wiebes, Lorena', '17.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'van Vleuten, Annemiek', '8.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Honsinger, Clara', '301.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Kastelijn, Yara', '151.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Sierra Cañadilla, Arlenis', '51.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Inserted new entry: (None, 'Unibet', 'Tour of Flanders 2023 - Women', 'Adegeest, Loes', '201.0', '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Entry: (11239, 'Unibet', 'Paris - Roubaix 2023', 'Alaphilippe, Julian', 67.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Entry: (8074, 'Unibet', 'Paris - Roubaix 2023', 'Alaphilippe, Julian', 51.0, '2023/03/24 18:55:25', None)
+2023/04/02 09:54:32 - Entry: (11240, 'Unibet', 'Paris - Roubaix 2023', 'Ganna, Filippo', 15.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:32 - Entry: (11030, 'Unibet', 'Paris - Roubaix 2023', 'Ganna, Filippo', 21.0, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11241, 'Unibet', 'Paris - Roubaix 2023', 'Lampaert, Yves', 23.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (3136, 'Unibet', 'Paris - Roubaix 2023', 'Lampaert, Yves', 26.0, '2023/03/18 17:03:57', None)
+2023/04/02 09:54:33 - Entry: (11242, 'Unibet', 'Paris - Roubaix 2023', 'Laporte, Christophe', 15.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (11043, 'Unibet', 'Paris - Roubaix 2023', 'Laporte, Christophe', 17.0, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11243, 'Unibet', 'Paris - Roubaix 2023', 'Naesen, Oliver', 201.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (11048, 'Unibet', 'Paris - Roubaix 2023', 'Naesen, Oliver', 251.0, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11244, 'Unibet', 'Paris - Roubaix 2023', 'Pedersen, Mads', 15.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (11051, 'Unibet', 'Paris - Roubaix 2023', 'Pedersen, Mads', 12.0, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11245, 'Unibet', 'Paris - Roubaix 2023', 'Pidcock, Tom', 41.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (11054, 'Unibet', 'Paris - Roubaix 2023', 'Pidcock, Tom', 51.0, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11246, 'Unibet', 'Paris - Roubaix 2023', 'Pogacar, Tadej', 8.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (11055, 'Unibet', 'Paris - Roubaix 2023', 'Pogacar, Tadej', 7.0, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11247, 'Unibet', 'Paris - Roubaix 2023', 'Turner, Ben', 67.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (11068, 'Unibet', 'Paris - Roubaix 2023', 'Turner, Ben', 51.0, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11248, 'Unibet', 'Paris - Roubaix 2023', 'Vanmarcke, Sep', 81.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (11073, 'Unibet', 'Paris - Roubaix 2023', 'Vanmarcke, Sep', 51.0, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11249, 'Unibet', 'Paris - Roubaix 2023', 'Vermeersch, Florian', 51.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (11074, 'Unibet', 'Paris - Roubaix 2023', 'Vermeersch, Florian', 41.0, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11250, 'Unibet', 'Paris - Roubaix 2023', 'van Baarle, Dylan', 11.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (11080, 'Unibet', 'Paris - Roubaix 2023', 'van Baarle, Dylan', 12.0, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11251, 'Unibet', 'Paris - Roubaix 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (11082, 'Unibet', 'Paris - Roubaix 2023', 'van der Poel, Mathieu', 4.5, '2023/03/26 17:34:44', None)
+2023/04/02 09:54:33 - Entry: (11252, 'Unibet', 'General Classification (Tour de France 2023)', 'Powless, Neilson', 501.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:54:33 - Entry: (936, 'Unibet', 'General Classification (Tour de France 2023)', 'Powless, Neilson', 601.0, '2023/03/11 22:02:58', None)
+2023/04/02 09:54:33 - Odds changed: 77
+2023/04/02 09:54:34 - Odds changed: 0
+2023/04/02 09:55:41 - Odds changed: 0
+2023/04/02 09:55:42 - Odds changed: 0
+2023/04/02 09:56:43 - Odds changed: 0
+2023/04/02 09:57:44 - Entry: (11253, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 34.0, '2023/04/02 09:57:43', None)
+2023/04/02 09:57:44 - Entry: (11084, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 51.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:57:44 - Entry: (11254, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 26.0, '2023/04/02 09:57:43', None)
+2023/04/02 09:57:44 - Entry: (11087, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 23.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:57:44 - Entry: (11255, 'Unibet', 'Tour of Flanders 2023', 'Kragh Andersen, Soren', 51.0, '2023/04/02 09:57:43', None)
+2023/04/02 09:57:44 - Entry: (11107, 'Unibet', 'Tour of Flanders 2023', 'Kragh Andersen, Soren', 81.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:57:44 - Entry: (11256, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 17.0, '2023/04/02 09:57:43', None)
+2023/04/02 09:57:44 - Entry: (11111, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 15.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:57:44 - Entry: (11257, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 21.0, '2023/04/02 09:57:43', None)
+2023/04/02 09:57:44 - Entry: (11121, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 19.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:57:44 - Entry: (11258, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 09:57:43', None)
+2023/04/02 09:57:44 - Entry: (11123, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.75, '2023/04/02 09:54:29', None)
+2023/04/02 09:57:44 - Entry: (11259, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.75, '2023/04/02 09:57:43', None)
+2023/04/02 09:57:44 - Entry: (11133, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.0, '2023/04/02 09:54:29', None)
+2023/04/02 09:57:44 - Entry: (11260, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.5, '2023/04/02 09:57:43', None)
+2023/04/02 09:57:44 - Entry: (11145, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.3, '2023/04/02 09:54:29', None)
+2023/04/02 09:57:45 - Odds changed: 8
+2023/04/02 09:58:46 - Odds changed: 0
+2023/04/02 09:59:47 - Odds changed: 0
+2023/04/02 10:00:48 - Odds changed: 0
+2023/04/02 10:01:49 - Odds changed: 0
+2023/04/02 10:02:50 - Odds changed: 0
+2023/04/02 10:03:51 - Odds changed: 0
+2023/04/02 10:04:52 - Odds changed: 0
+2023/04/02 10:05:53 - Odds changed: 0
+2023/04/02 10:06:54 - Odds changed: 0
+2023/04/02 10:07:55 - Odds changed: 0
+2023/04/02 10:08:56 - Odds changed: 0
+2023/04/02 10:09:57 - Odds changed: 0
+2023/04/02 10:10:58 - Odds changed: 0
+2023/04/02 10:11:59 - Odds changed: 0
+2023/04/02 10:13:00 - Odds changed: 0
+2023/04/02 10:14:01 - Odds changed: 0
+2023/04/02 10:15:02 - Odds changed: 0
+2023/04/02 10:16:04 - Odds changed: 0
+2023/04/02 10:17:05 - Odds changed: 0
+2023/04/02 10:18:06 - Odds changed: 0
+2023/04/02 10:19:07 - Odds changed: 0
+2023/04/02 10:20:08 - Odds changed: 0
+2023/04/02 10:21:09 - Odds changed: 0
+2023/04/02 10:22:10 - Odds changed: 0
+2023/04/02 10:23:11 - Odds changed: 0
+2023/04/02 10:24:12 - Odds changed: 0
+2023/04/02 10:25:13 - Odds changed: 0
+2023/04/02 10:26:14 - Odds changed: 0
+2023/04/02 10:27:15 - Odds changed: 0
+2023/04/02 10:28:16 - Odds changed: 0
+2023/04/02 10:29:17 - Odds changed: 0
+2023/04/02 10:30:18 - Odds changed: 0
+2023/04/02 10:31:19 - Odds changed: 0
+2023/04/02 10:32:20 - Odds changed: 0
+2023/04/02 10:33:21 - Odds changed: 0
+2023/04/02 10:34:22 - Odds changed: 0
+2023/04/02 10:35:22 - Odds changed: 0
+2023/04/02 10:36:23 - Odds changed: 0
+2023/04/02 10:37:24 - Odds changed: 0
+2023/04/02 10:38:25 - Odds changed: 0
+2023/04/02 10:39:26 - Odds changed: 0
+2023/04/02 10:40:27 - Odds changed: 0
+2023/04/02 10:41:28 - Odds changed: 0
+2023/04/02 10:42:28 - Odds changed: 0
+2023/04/02 10:43:29 - Odds changed: 0
+2023/04/02 10:44:30 - Odds changed: 0
+2023/04/02 10:45:31 - Odds changed: 0
+2023/04/02 10:46:31 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Aranburu, Alex', '401.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:31 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Bernal, Egan', '151.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:31 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Bilbao, Pello', '15.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:31 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Buchmann, Emanuel', '126.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:31 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Carapaz, Richard', '34.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Cavagna, Remi', '251.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Champoussin, Clement', '301.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Chaves, Esteban', '81.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Costa, Rui', '151.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Cras, Steff', '251.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Dunbar, Eddie', '151.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Formolo, Davide', '151.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Fraile, Omar', '401.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Gall, Felix', '151.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Gaudu, David', '6.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Goossens, Kobe', '201.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Gregoire, Romain', '34.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Grossschartner, Felix', '501.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Guerreiro, Ruben', '101.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Hayter, Ethan', '501.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Hermans, Quinten', '601.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Higuita, Sergio', '13.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Hirschi, Marc', '301.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Izagirre, Ion', '12.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Landa, Mikel', '26.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Latour, Pierre', '401.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Martinez, Daniel Felipe', '13.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Mas, Enric', '7.5', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'McNulty, Brandon', '29.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Mollema, Bauke', '251.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Plapp, Luke', '151.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Rochas, Rémy', '501.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Rodriguez, Cristian', '301.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Schmid, Mauro', '251.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Skjelmose, Mattias', '67.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Soler, Marc', '21.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Sánchez, Luis Leon', '801.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Urán, Rigoberto', '51.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Valter, Attila', '101.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Vanhoucke, Harm', '401.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Vingegaard, Jonas', '2.75', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Yates, Simon', '11.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:32 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'de la Cruz, David', '401.0', '2023/04/02 10:46:31', None)
+2023/04/02 10:46:33 - Odds changed: 0
+2023/04/02 10:47:34 - Odds changed: 0
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Aleotti, Giovanni', '401.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Bagioli, Andrea', '801.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Battistella, Samuele', '601.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Castroviejo, Jonathan', '801.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Dennis, Rohan', '501.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Eiking, Odd Christian', '801.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Geschke, Simon', '601.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Harper, Chris', '501.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Izagirre, Gorka', '801.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Kruijswijk, Steven', '401.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Leemreize, Gijs', '501.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:34 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Leknessund, Andreas', '401.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:35 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Lopez, Juan Pedro', '401.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:35 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Oomen, Sam', '601.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:35 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Rivera, Brandon Smith', '801.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:35 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Serrano, Gonzalo', '501.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:35 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Sobrero, Matteo', '601.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:35 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Storer, Michael', '601.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:35 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Taaramae, Rein', '501.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:35 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Vuillermoz, Alexis', '601.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:35 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Zwiehoff, Ben', '601.0', '2023/04/02 10:48:34', None)
+2023/04/02 10:48:35 - Odds changed: 0
+2023/04/02 10:49:36 - Odds changed: 0
+2023/04/02 10:50:37 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Armirail, Bruno', '801.0', '2023/04/02 10:50:36', None)
+2023/04/02 10:50:37 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Bayer, Tobias', '1001.0', '2023/04/02 10:50:36', None)
+2023/04/02 10:50:37 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Calmejane, Lilian', '801.0', '2023/04/02 10:50:36', None)
+2023/04/02 10:50:37 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Cepeda, Jefferson Alveiro', '1001.0', '2023/04/02 10:50:36', None)
+2023/04/02 10:50:37 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Kudus, Merhawi', '1001.0', '2023/04/02 10:50:36', None)
+2023/04/02 10:50:37 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Muhlberger, Gregor', '801.0', '2023/04/02 10:50:36', None)
+2023/04/02 10:50:37 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Prades, Eduard', '1001.0', '2023/04/02 10:50:36', None)
+2023/04/02 10:50:37 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Schelling, Ide', '801.0', '2023/04/02 10:50:36', None)
+2023/04/02 10:50:37 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Vandenabeele, Henri', '1001.0', '2023/04/02 10:50:36', None)
+2023/04/02 10:50:37 - Inserted new entry: (None, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Zimmermann, Georg', '801.0', '2023/04/02 10:50:36', None)
+2023/04/02 10:50:37 - Odds changed: 0
+2023/04/02 10:51:38 - Entry: (11335, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.75, '2023/04/02 10:51:37', None)
+2023/04/02 10:51:38 - Entry: (11258, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 09:57:43', None)
+2023/04/02 10:51:38 - Entry: (11336, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.0, '2023/04/02 10:51:37', None)
+2023/04/02 10:51:38 - Entry: (11259, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.75, '2023/04/02 09:57:43', None)
+2023/04/02 10:51:38 - Entry: (11337, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.25, '2023/04/02 10:51:37', None)
+2023/04/02 10:51:38 - Entry: (11260, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.5, '2023/04/02 09:57:43', None)
+2023/04/02 10:51:38 - Odds changed: 3
+2023/04/02 10:52:39 - Odds changed: 0
+2023/04/02 10:53:40 - Odds changed: 0
+2023/04/02 10:54:41 - Odds changed: 0
+2023/04/02 10:55:42 - Odds changed: 0
+2023/04/02 10:56:43 - Odds changed: 0
+2023/04/02 10:57:44 - Odds changed: 0
+2023/04/02 10:58:45 - Odds changed: 0
+2023/04/02 10:59:46 - Odds changed: 0
+2023/04/02 11:00:47 - Odds changed: 0
+2023/04/02 11:01:48 - Odds changed: 0
+2023/04/02 11:02:49 - Odds changed: 0
+2023/04/02 11:03:50 - Odds changed: 0
+2023/04/02 11:04:51 - Odds changed: 0
+2023/04/02 11:05:52 - Odds changed: 0
+2023/04/02 11:06:53 - Odds changed: 0
+2023/04/02 11:07:54 - Odds changed: 0
+2023/04/02 11:08:55 - Odds changed: 0
+2023/04/02 11:09:56 - Odds changed: 0
+2023/04/02 11:10:57 - Odds changed: 0
+2023/04/02 11:11:58 - Odds changed: 0
+2023/04/02 11:12:59 - Odds changed: 0
+2023/04/02 11:14:00 - Odds changed: 0
+2023/04/02 11:15:01 - Odds changed: 0
+2023/04/02 11:16:02 - Odds changed: 0
+2023/04/02 11:17:03 - Odds changed: 0
+2023/04/02 11:18:04 - Odds changed: 0
+2023/04/02 11:19:04 - Entry: (11338, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 11:19:04', None)
+2023/04/02 11:19:04 - Entry: (11335, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.75, '2023/04/02 10:51:37', None)
+2023/04/02 11:19:04 - Entry: (11339, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.75, '2023/04/02 11:19:04', None)
+2023/04/02 11:19:04 - Entry: (11336, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.0, '2023/04/02 10:51:37', None)
+2023/04/02 11:19:04 - Entry: (11340, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.75, '2023/04/02 11:19:04', None)
+2023/04/02 11:19:04 - Entry: (11337, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.25, '2023/04/02 10:51:37', None)
+2023/04/02 11:19:05 - Odds changed: 3
+2023/04/02 11:20:06 - Odds changed: 0
+2023/04/02 11:21:07 - Odds changed: 0
+2023/04/02 11:22:08 - Odds changed: 0
+2023/04/02 11:23:09 - Odds changed: 0
+2023/04/02 11:24:10 - Odds changed: 0
+2023/04/02 11:25:11 - Odds changed: 0
+2023/04/02 11:26:12 - Odds changed: 0
+2023/04/02 11:27:13 - Odds changed: 0
+2023/04/02 11:28:14 - Odds changed: 0
+2023/04/02 11:29:15 - Odds changed: 0
+2023/04/02 11:30:16 - Odds changed: 0
+2023/04/02 11:31:17 - Odds changed: 0
+2023/04/02 11:32:18 - Odds changed: 0
+2023/04/02 11:33:19 - Odds changed: 0
+2023/04/02 11:34:20 - Odds changed: 0
+2023/04/02 11:35:20 - Entry: (11341, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.5, '2023/04/02 11:35:20', None)
+2023/04/02 11:35:20 - Entry: (11340, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.75, '2023/04/02 11:19:04', None)
+2023/04/02 11:35:21 - Odds changed: 1
+2023/04/02 11:36:22 - Odds changed: 0
+2023/04/02 11:37:23 - Odds changed: 0
+2023/04/02 11:38:24 - Odds changed: 0
+2023/04/02 11:39:25 - Odds changed: 0
+2023/04/02 11:40:26 - Odds changed: 0
+2023/04/02 11:41:27 - Odds changed: 0
+2023/04/02 11:42:28 - Odds changed: 0
+2023/04/02 11:43:29 - Odds changed: 0
+2023/04/02 11:44:30 - Odds changed: 0
+2023/04/02 11:45:31 - Odds changed: 0
+2023/04/02 11:46:31 - Entry: (11342, 'Unibet', 'Tour of Flanders 2023', 'van der Hoorn, Taco', 201.0, '2023/04/02 11:46:31', None)
+2023/04/02 11:46:31 - Entry: (11144, 'Unibet', 'Tour of Flanders 2023', 'van der Hoorn, Taco', 501.0, '2023/04/02 09:54:29', None)
+2023/04/02 11:46:32 - Odds changed: 1
+2023/04/02 11:47:33 - Odds changed: 0
+2023/04/02 11:48:34 - Odds changed: 0
+2023/04/02 11:49:35 - Odds changed: 0
+2023/04/02 11:50:36 - Odds changed: 0
+2023/04/02 11:51:37 - Odds changed: 0
+2023/04/02 11:52:38 - Odds changed: 0
+2023/04/02 11:53:39 - Odds changed: 0
+2023/04/02 11:54:40 - Odds changed: 0
+2023/04/02 11:55:41 - Odds changed: 0
+2023/04/02 11:56:42 - Odds changed: 0
+2023/04/02 11:57:43 - Odds changed: 0
+2023/04/02 11:58:44 - Odds changed: 0
+2023/04/02 11:59:45 - Odds changed: 0
+2023/04/02 12:00:46 - Odds changed: 0
+2023/04/02 12:01:47 - Odds changed: 0
+2023/04/02 12:02:48 - Odds changed: 0
+2023/04/02 12:03:49 - Odds changed: 0
+2023/04/02 12:04:50 - Odds changed: 0
+2023/04/02 12:05:51 - Odds changed: 0
+2023/04/02 12:06:52 - Odds changed: 0
+2023/04/02 12:07:53 - Odds changed: 0
+2023/04/02 12:08:54 - Odds changed: 0
+2023/04/02 12:09:55 - Odds changed: 0
+2023/04/02 12:10:56 - Odds changed: 0
+2023/04/02 12:11:57 - Odds changed: 0
+2023/04/02 12:12:58 - Odds changed: 0
+2023/04/02 12:13:12 - Odds changed: 0
+2023/04/02 12:14:13 - Odds changed: 0
+2023/04/02 12:15:15 - Odds changed: 0
+2023/04/02 12:16:16 - Odds changed: 0
+2023/04/02 12:17:18 - Odds changed: 0
+2023/04/02 12:18:19 - Odds changed: 0
+2023/04/02 12:19:20 - Odds changed: 0
+2023/04/02 12:20:22 - Odds changed: 0
+2023/04/02 12:21:23 - Odds changed: 0
+2023/04/02 12:22:24 - Odds changed: 0
+2023/04/02 12:23:26 - Odds changed: 0
+2023/04/02 12:24:27 - Odds changed: 0
+2023/04/02 12:25:28 - Odds changed: 0
+2023/04/02 12:26:30 - Odds changed: 0
+2023/04/02 12:27:31 - Odds changed: 0
+2023/04/02 12:28:32 - Odds changed: 0
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Aberasturi, Jon', '10.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Aranburu, Alex', '6.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Armirail, Bruno', '301.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Aular, Orluis', '34.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Bagioli, Andrea', '12.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Barcelo, Fernando', '81.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Battistella, Samuele', '51.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Bernal, Egan', '501.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Bilbao, Pello', '26.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Burgaudeau, Mathieu', '151.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Calmejane, Lilian', '101.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Canal, Carlos', '81.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Carapaz, Richard', '81.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Cattaneo, Mattia', '251.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:33 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Cavagna, Remi', '23.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Champion, Thomas', '801.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Champoussin, Clement', '401.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Chaves, Esteban', '601.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Conci, Nicola', '301.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Costa, Rui', '67.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Dennis, Rohan', '301.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Dunbar, Eddie', '401.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Eiking, Odd Christian', '201.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Formolo, Davide', '401.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Fraile, Omar', '26.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Gall, Felix', '101.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Gallopin, Tony', '801.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Gaudu, David', '151.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Geschke, Simon', '401.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Goossens, Kobe', '301.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Gregoire, Romain', '151.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Grossschartner, Felix', '401.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Guerreiro, Ruben', '101.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Hayter, Ethan', '8.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Hermans, Quinten', '11.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Higuita, Sergio', '23.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Hirschi, Marc', '26.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Izagirre, Gorka', '251.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Izagirre, Ion', '81.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Juul-Jensen, Christopher', '251.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Lastra, Jonathan', '301.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Latour, Pierre', '81.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Leknessund, Andreas', '401.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Martin, Gotzon', '501.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Martinez, Daniel Felipe', '251.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Mas, Enric', '201.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'McNulty, Brandon', '126.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Mollema, Bauke', '301.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Oldani, Stefano', '23.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Pacher, Quentin', '41.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Plapp, Luke', '101.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Prades, Eduard', '401.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Riabushenko, Alexandr', '51.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Riou, Alan', '201.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Rochas, Rémy', '151.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Romo, Javier', '301.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Scaroni, Cristian', '151.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Schelling, Ide', '12.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Schmid, Mauro', '41.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Serrano, Gonzalo', '67.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:34 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Skjelmose, Mattias', '34.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Smith, Dion', '41.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Sobrero, Matteo', '251.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Soler, Marc', '51.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Storer, Michael', '501.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Sánchez, Luis Leon', '101.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Tesfatsion, Natnael', '51.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Valter, Attila', '126.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Vendrame, Andrea', '13.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Vingegaard, Jonas', '201.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Zimmermann, Georg', '301.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'de la Cruz, David', '251.0', '2023/04/02 12:29:32', None)
+2023/04/02 12:29:35 - Odds changed: 0
+2023/04/02 12:30:36 - Entry: (11415, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.5, '2023/04/02 12:30:35', '164.4')
+2023/04/02 12:30:36 - Entry: (11339, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.75, '2023/04/02 11:19:04', None)
+2023/04/02 12:30:37 - Odds changed: 1
+2023/04/02 12:31:38 - Odds changed: 0
+2023/04/02 12:32:39 - Odds changed: 0
+2023/04/02 12:33:40 - Odds changed: 0
+2023/04/02 12:34:43 - Odds changed: 0
+2023/04/02 12:35:44 - Odds changed: 0
+2023/04/02 12:36:45 - Odds changed: 0
+2023/04/02 12:37:46 - Odds changed: 0
+2023/04/02 12:38:47 - Odds changed: 0
+2023/04/02 12:39:48 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Bol, Jetse', '501.0', '2023/04/02 12:39:47', None)
+2023/04/02 12:39:48 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Bou, Joan', '801.0', '2023/04/02 12:39:47', None)
+2023/04/02 12:39:48 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Caicedo, Jonathan Klever', '601.0', '2023/04/02 12:39:47', None)
+2023/04/02 12:39:48 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Lopez, Juan Pedro', '801.0', '2023/04/02 12:39:47', None)
+2023/04/02 12:39:48 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Rivera, Brandon Smith', '601.0', '2023/04/02 12:39:47', None)
+2023/04/02 12:39:49 - Odds changed: 0
+2023/04/02 12:40:50 - Odds changed: 0
+2023/04/02 12:41:50 - Entry: (11421, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 126.0, '2023/04/02 12:41:50', '156.4')
+2023/04/02 12:41:50 - Entry: (11114, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 401.0, '2023/04/02 09:54:29', None)
+2023/04/02 12:41:51 - Odds changed: 1
+2023/04/02 12:42:52 - Entry: (11422, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 101.0, '2023/04/02 12:42:51', '155.7')
+2023/04/02 12:42:52 - Entry: (11421, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 126.0, '2023/04/02 12:41:50', '156.4')
+2023/04/02 12:42:52 - Entry: (11423, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 101.0, '2023/04/02 12:42:51', '155.7')
+2023/04/02 12:42:52 - Entry: (8021, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 801.0, '2023/03/24 18:55:25', None)
+2023/04/02 12:42:52 - Odds changed: 2
+2023/04/02 12:43:53 - Entry: (11424, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 151.0, '2023/04/02 12:43:52', '154.8')
+2023/04/02 12:43:53 - Entry: (11088, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 1501.0, '2023/04/02 09:54:29', None)
+2023/04/02 12:43:53 - Entry: (11425, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 101.0, '2023/04/02 12:43:52', '154.8')
+2023/04/02 12:43:53 - Entry: (11104, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 12:43:53 - Entry: (11426, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', 201.0, '2023/04/02 12:43:52', '154.8')
+2023/04/02 12:43:53 - Entry: (11176, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', 1001.0, '2023/04/02 09:54:29', None)
+2023/04/02 12:43:54 - Odds changed: 3
+2023/04/02 12:44:54 - Entry: (11427, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.75, '2023/04/02 12:44:54', '153.8')
+2023/04/02 12:44:54 - Entry: (11338, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 11:19:04', None)
+2023/04/02 12:44:54 - Entry: (11428, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.0, '2023/04/02 12:44:54', '153.8')
+2023/04/02 12:44:54 - Entry: (11341, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.5, '2023/04/02 11:35:20', None)
+2023/04/02 12:44:55 - Odds changed: 2
+2023/04/02 12:45:56 - Odds changed: 0
+2023/04/02 12:46:57 - Entry: (11429, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 15.0, '2023/04/02 12:46:56', '152.3')
+2023/04/02 12:46:57 - Entry: (11257, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 21.0, '2023/04/02 09:57:43', None)
+2023/04/02 12:46:57 - Odds changed: 1
+2023/04/02 12:47:58 - Entry: (11430, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 19.0, '2023/04/02 12:47:57', '151.6')
+2023/04/02 12:47:58 - Entry: (11256, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 17.0, '2023/04/02 09:57:43', None)
+2023/04/02 12:47:59 - Odds changed: 1
+2023/04/02 12:48:59 - Entry: (11431, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.25, '2023/04/02 12:48:59', '150.8')
+2023/04/02 12:48:59 - Entry: (11428, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.0, '2023/04/02 12:44:54', '153.8')
+2023/04/02 12:49:00 - Odds changed: 1
+2023/04/02 12:50:01 - Odds changed: 0
+2023/04/02 12:51:02 - Odds changed: 0
+2023/04/02 12:52:04 - Odds changed: 0
+2023/04/02 12:53:05 - Odds changed: 0
+2023/04/02 12:54:06 - Odds changed: 0
+2023/04/02 12:55:07 - Odds changed: 0
+2023/04/02 12:56:08 - Odds changed: 0
+2023/04/02 12:57:10 - Odds changed: 0
+2023/04/02 12:58:11 - Odds changed: 0
+2023/04/02 12:59:12 - Odds changed: 0
+2023/04/02 13:00:13 - Odds changed: 0
+2023/04/02 13:01:15 - Odds changed: 0
+2023/04/02 13:02:16 - Odds changed: 0
+2023/04/02 13:03:17 - Odds changed: 0
+2023/04/02 13:04:18 - Entry: (11432, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 101.0, '2023/04/02 13:04:17', '139.7')
+2023/04/02 13:04:18 - Entry: (11424, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 151.0, '2023/04/02 12:43:52', '154.8')
+2023/04/02 13:04:18 - Entry: (11433, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 51.0, '2023/04/02 13:04:17', '139.7')
+2023/04/02 13:04:18 - Entry: (11422, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 101.0, '2023/04/02 12:42:51', '155.7')
+2023/04/02 13:04:18 - Entry: (11434, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 51.0, '2023/04/02 13:04:17', '139.7')
+2023/04/02 13:04:18 - Entry: (11423, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 101.0, '2023/04/02 12:42:51', '155.7')
+2023/04/02 13:04:18 - Odds changed: 3
+2023/04/02 13:05:19 - Entry: (11435, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 51.0, '2023/04/02 13:05:18', '138.5')
+2023/04/02 13:05:19 - Entry: (11149, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 41.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:05:20 - Odds changed: 1
+2023/04/02 13:06:21 - Odds changed: 0
+2023/04/02 13:07:22 - Odds changed: 0
+2023/04/02 13:08:23 - Entry: (11436, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 34.0, '2023/04/02 13:08:22', '136.3')
+2023/04/02 13:08:23 - Entry: (11433, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 51.0, '2023/04/02 13:04:17', '139.7')
+2023/04/02 13:08:23 - Odds changed: 1
+2023/04/02 13:09:24 - Entry: (11437, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 51.0, '2023/04/02 13:09:23', '135.6')
+2023/04/02 13:09:24 - Entry: (11425, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 101.0, '2023/04/02 12:43:52', '154.8')
+2023/04/02 13:09:24 - Entry: (11438, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 41.0, '2023/04/02 13:09:23', '135.6')
+2023/04/02 13:09:24 - Entry: (11434, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 51.0, '2023/04/02 13:04:17', '139.7')
+2023/04/02 13:09:25 - Odds changed: 2
+2023/04/02 13:10:25 - Entry: (11439, 'Unibet', 'Tour of Flanders 2023', 'Colombo, Filippo', 51.0, '2023/04/02 13:10:25', '134.8')
+2023/04/02 13:10:25 - Entry: (11170, 'Unibet', 'Tour of Flanders 2023', 'Colombo, Filippo', 2001.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:10:26 - Odds changed: 1
+2023/04/02 13:11:26 - Entry: (11440, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 13:11:26', '134.1')
+2023/04/02 13:11:26 - Entry: (11427, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.75, '2023/04/02 12:44:54', '153.8')
+2023/04/02 13:11:27 - Odds changed: 1
+2023/04/02 13:12:27 - Entry: (11441, 'Unibet', 'Tour of Flanders 2023', 'Sheffield, Magnus', 101.0, '2023/04/02 13:12:27', '133.4')
+2023/04/02 13:12:27 - Entry: (11126, 'Unibet', 'Tour of Flanders 2023', 'Sheffield, Magnus', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:12:28 - Odds changed: 1
+2023/04/02 13:13:29 - Odds changed: 0
+2023/04/02 13:14:31 - Odds changed: 0
+2023/04/02 13:15:32 - Odds changed: 0
+2023/04/02 13:16:33 - Odds changed: 0
+2023/04/02 13:17:33 - Entry: (11442, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 13.0, '2023/04/02 13:17:33', '131.4')
+2023/04/02 13:17:33 - Entry: (11429, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 15.0, '2023/04/02 12:46:56', '152.3')
+2023/04/02 13:17:34 - Entry: (11443, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.5, '2023/04/02 13:17:33', '131.4')
+2023/04/02 13:17:34 - Entry: (11440, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 13:11:26', '134.1')
+2023/04/02 13:17:34 - Odds changed: 2
+2023/04/02 13:18:36 - Odds changed: 0
+2023/04/02 13:19:36 - Entry: (11444, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.25, '2023/04/02 13:19:36', '129.1')
+2023/04/02 13:19:36 - Entry: (11415, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.5, '2023/04/02 12:30:35', '164.4')
+2023/04/02 13:19:37 - Odds changed: 1
+2023/04/02 13:20:38 - Odds changed: 0
+2023/04/02 13:21:39 - Odds changed: 0
+2023/04/02 13:22:41 - Odds changed: 0
+2023/04/02 13:23:42 - Odds changed: 0
+2023/04/02 13:24:43 - Entry: (11445, 'Unibet', 'Tour of Flanders 2023', 'Degenkolb, John', 201.0, '2023/04/02 13:24:42', '126.2')
+2023/04/02 13:24:43 - Entry: (7940, 'Unibet', 'Tour of Flanders 2023', 'Degenkolb, John', 401.0, '2023/03/24 18:55:25', None)
+2023/04/02 13:24:43 - Odds changed: 1
+2023/04/02 13:25:44 - Entry: (11446, 'Unibet', 'Tour of Flanders 2023', 'Teuns, Dylan', 81.0, '2023/04/02 13:25:43', '125.4')
+2023/04/02 13:25:44 - Entry: (11129, 'Unibet', 'Tour of Flanders 2023', 'Teuns, Dylan', 251.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:25:44 - Odds changed: 1
+2023/04/02 13:26:46 - Odds changed: 0
+2023/04/02 13:27:46 - Entry: (11447, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 81.0, '2023/04/02 13:27:46', '124.0')
+2023/04/02 13:27:46 - Entry: (11435, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 51.0, '2023/04/02 13:05:18', '138.5')
+2023/04/02 13:27:47 - Odds changed: 1
+2023/04/02 13:28:47 - Entry: (11448, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 34.0, '2023/04/02 13:28:47', '123.3')
+2023/04/02 13:28:47 - Entry: (11437, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 51.0, '2023/04/02 13:09:23', '135.6')
+2023/04/02 13:28:47 - Entry: (11449, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 11.0, '2023/04/02 13:28:47', '123.3')
+2023/04/02 13:28:47 - Entry: (11442, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 13.0, '2023/04/02 13:17:33', '131.4')
+2023/04/02 13:28:47 - Entry: (11450, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 26.0, '2023/04/02 13:28:47', '123.3')
+2023/04/02 13:28:47 - Entry: (11438, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 41.0, '2023/04/02 13:09:23', '135.6')
+2023/04/02 13:28:48 - Odds changed: 3
+2023/04/02 13:29:49 - Odds changed: 0
+2023/04/02 13:30:50 - Entry: (11451, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 34.0, '2023/04/02 13:30:49', '121.5')
+2023/04/02 13:30:50 - Entry: (11086, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 29.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:30:50 - Entry: (11452, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 21.0, '2023/04/02 13:30:49', '121.5')
+2023/04/02 13:30:50 - Entry: (11450, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 26.0, '2023/04/02 13:28:47', '123.3')
+2023/04/02 13:30:50 - Odds changed: 2
+2023/04/02 13:31:51 - Entry: (11453, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 26.0, '2023/04/02 13:31:50', '120.7')
+2023/04/02 13:31:51 - Entry: (11436, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 34.0, '2023/04/02 13:08:22', '136.3')
+2023/04/02 13:31:51 - Odds changed: 1
+2023/04/02 13:32:52 - Entry: (11454, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 81.0, '2023/04/02 13:32:51', '120.0')
+2023/04/02 13:32:52 - Entry: (11432, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 101.0, '2023/04/02 13:04:17', '139.7')
+2023/04/02 13:32:52 - Entry: (11455, 'Unibet', 'Tour of Flanders 2023', 'Colombo, Filippo', 41.0, '2023/04/02 13:32:51', '120.0')
+2023/04/02 13:32:52 - Entry: (11439, 'Unibet', 'Tour of Flanders 2023', 'Colombo, Filippo', 51.0, '2023/04/02 13:10:25', '134.8')
+2023/04/02 13:32:52 - Entry: (11456, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', 67.0, '2023/04/02 13:32:51', '120.0')
+2023/04/02 13:32:52 - Entry: (11426, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', 201.0, '2023/04/02 12:43:52', '154.8')
+2023/04/02 13:32:53 - Odds changed: 3
+2023/04/02 13:33:53 - Entry: (11457, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 13:33:53', '119.3')
+2023/04/02 13:33:53 - Entry: (11443, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.5, '2023/04/02 13:17:33', '131.4')
+2023/04/02 13:33:53 - Entry: (11458, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.75, '2023/04/02 13:33:53', '119.3')
+2023/04/02 13:33:53 - Entry: (11431, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.25, '2023/04/02 12:48:59', '150.8')
+2023/04/02 13:33:54 - Odds changed: 2
+2023/04/02 13:34:55 - Odds changed: 0
+2023/04/02 13:35:56 - Entry: (11459, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 51.0, '2023/04/02 13:35:55', '117.8')
+2023/04/02 13:35:56 - Entry: (11253, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 34.0, '2023/04/02 09:57:43', None)
+2023/04/02 13:35:56 - Entry: (11460, 'Unibet', 'Tour of Flanders 2023', 'Kragh Andersen, Soren', 81.0, '2023/04/02 13:35:55', '117.8')
+2023/04/02 13:35:56 - Entry: (11255, 'Unibet', 'Tour of Flanders 2023', 'Kragh Andersen, Soren', 51.0, '2023/04/02 09:57:43', None)
+2023/04/02 13:35:56 - Entry: (11461, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 23.0, '2023/04/02 13:35:55', '117.8')
+2023/04/02 13:35:56 - Entry: (11430, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 19.0, '2023/04/02 12:47:57', '151.6')
+2023/04/02 13:35:56 - Entry: (11462, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 34.0, '2023/04/02 13:35:55', '117.8')
+2023/04/02 13:35:56 - Entry: (11453, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 26.0, '2023/04/02 13:31:50', '120.7')
+2023/04/02 13:35:56 - Entry: (11463, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 26.0, '2023/04/02 13:35:55', '117.8')
+2023/04/02 13:35:56 - Entry: (11452, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 21.0, '2023/04/02 13:30:49', '121.5')
+2023/04/02 13:35:56 - Odds changed: 5
+2023/04/02 13:36:57 - Odds changed: 0
+2023/04/02 13:37:59 - Odds changed: 0
+2023/04/02 13:39:00 - Odds changed: 0
+2023/04/02 13:40:00 - Entry: (11464, 'Unibet', 'Tour of Flanders 2023', 'Kragh Andersen, Soren', 151.0, '2023/04/02 13:40:00', '114.9')
+2023/04/02 13:40:00 - Entry: (11460, 'Unibet', 'Tour of Flanders 2023', 'Kragh Andersen, Soren', 81.0, '2023/04/02 13:35:55', '117.8')
+2023/04/02 13:40:01 - Odds changed: 1
+2023/04/02 13:41:02 - Odds changed: 0
+2023/04/02 13:42:03 - Odds changed: 0
+2023/04/02 13:43:04 - Odds changed: 0
+2023/04/02 13:44:06 - Odds changed: 0
+2023/04/02 13:45:07 - Odds changed: 0
+2023/04/02 13:46:07 - Entry: (11465, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.0, '2023/04/02 13:46:07', '110.5')
+2023/04/02 13:46:07 - Entry: (11444, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.25, '2023/04/02 13:19:36', '129.1')
+2023/04/02 13:46:08 - Odds changed: 1
+2023/04/02 13:47:09 - Odds changed: 0
+2023/04/02 13:48:10 - Entry: (11466, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 12.0, '2023/04/02 13:48:09', '109.0')
+2023/04/02 13:48:10 - Entry: (11120, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 34.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:48:10 - Entry: (11467, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 51.0, '2023/04/02 13:48:09', '109.0')
+2023/04/02 13:48:10 - Entry: (11135, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 81.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:48:11 - Odds changed: 2
+2023/04/02 13:49:11 - Entry: (11468, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 101.0, '2023/04/02 13:49:11', '108.3')
+2023/04/02 13:49:11 - Entry: (8042, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 301.0, '2023/03/24 18:55:25', None)
+2023/04/02 13:49:12 - Odds changed: 1
+2023/04/02 13:50:13 - Odds changed: 0
+2023/04/02 13:51:13 - Entry: (11469, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 21.0, '2023/04/02 13:51:13', '108.9')
+2023/04/02 13:51:13 - Entry: (11105, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 67.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:51:14 - Odds changed: 1
+2023/04/02 13:52:15 - Odds changed: 0
+2023/04/02 13:53:15 - Entry: (11470, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 81.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11459, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 51.0, '2023/04/02 13:35:55', '117.8')
+2023/04/02 13:53:15 - Entry: (11471, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 41.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11451, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 34.0, '2023/04/02 13:30:49', '121.5')
+2023/04/02 13:53:15 - Entry: (11472, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 51.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11254, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 26.0, '2023/04/02 09:57:43', None)
+2023/04/02 13:53:15 - Entry: (11473, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 101.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11454, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 81.0, '2023/04/02 13:32:51', '120.0')
+2023/04/02 13:53:15 - Entry: (11474, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 151.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11099, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 126.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:53:15 - Entry: (11475, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 51.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11448, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 34.0, '2023/04/02 13:28:47', '123.3')
+2023/04/02 13:53:15 - Entry: (11476, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 17.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11469, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 21.0, '2023/04/02 13:51:13', '108.9')
+2023/04/02 13:53:15 - Entry: (11477, 'Unibet', 'Tour of Flanders 2023', 'Kragh Andersen, Soren', 201.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11464, 'Unibet', 'Tour of Flanders 2023', 'Kragh Andersen, Soren', 151.0, '2023/04/02 13:40:00', '114.9')
+2023/04/02 13:53:15 - Entry: (11478, 'Unibet', 'Tour of Flanders 2023', 'Lampaert, Yves', 51.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11110, 'Unibet', 'Tour of Flanders 2023', 'Lampaert, Yves', 251.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:53:15 - Entry: (11479, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 34.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11461, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 23.0, '2023/04/02 13:35:55', '117.8')
+2023/04/02 13:53:15 - Entry: (11480, 'Unibet', 'Tour of Flanders 2023', 'Matthews, Michael', 151.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11113, 'Unibet', 'Tour of Flanders 2023', 'Matthews, Michael', 126.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:53:15 - Entry: (11481, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 41.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11462, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 34.0, '2023/04/02 13:35:55', '117.8')
+2023/04/02 13:53:15 - Entry: (11482, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 51.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11118, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:53:15 - Entry: (11483, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 8.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11466, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 12.0, '2023/04/02 13:48:09', '109.0')
+2023/04/02 13:53:15 - Entry: (11484, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 21.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11449, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 11.0, '2023/04/02 13:28:47', '123.3')
+2023/04/02 13:53:15 - Entry: (11485, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 2.2, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11457, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 13:33:53', '119.3')
+2023/04/02 13:53:15 - Entry: (11486, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 41.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:15 - Entry: (11463, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 26.0, '2023/04/02 13:35:55', '117.8')
+2023/04/02 13:53:16 - Entry: (11487, 'Unibet', 'Tour of Flanders 2023', 'Teuns, Dylan', 101.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:16 - Entry: (11446, 'Unibet', 'Tour of Flanders 2023', 'Teuns, Dylan', 81.0, '2023/04/02 13:25:43', '125.4')
+2023/04/02 13:53:16 - Entry: (11488, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 51.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:16 - Entry: (11468, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 101.0, '2023/04/02 13:49:11', '108.3')
+2023/04/02 13:53:16 - Entry: (11489, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.5, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:16 - Entry: (11465, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.0, '2023/04/02 13:46:07', '110.5')
+2023/04/02 13:53:16 - Entry: (11490, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Gianni', 23.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:16 - Entry: (11140, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Gianni', 251.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:53:16 - Entry: (11491, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.5, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:16 - Entry: (11458, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.75, '2023/04/02 13:33:53', '119.3')
+2023/04/02 13:53:16 - Entry: (11492, 'Unibet', 'Tour of Flanders 2023', 'Colombo, Filippo', 101.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:16 - Entry: (11455, 'Unibet', 'Tour of Flanders 2023', 'Colombo, Filippo', 41.0, '2023/04/02 13:32:51', '120.0')
+2023/04/02 13:53:16 - Entry: (11493, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', 101.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:53:16 - Entry: (11456, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', 67.0, '2023/04/02 13:32:51', '120.0')
+2023/04/02 13:53:16 - Odds changed: 24
+2023/04/02 13:54:17 - Entry: (11494, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 67.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:54:17 - Entry: (11472, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 51.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:54:17 - Entry: (11495, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 101.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:54:17 - Entry: (11474, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 151.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:54:17 - Entry: (11496, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 81.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:54:17 - Entry: (11475, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 51.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:54:17 - Entry: (11497, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 15.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:54:17 - Entry: (11476, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 17.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:54:17 - Entry: (11498, 'Unibet', 'Tour of Flanders 2023', 'Matthews, Michael', 101.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:54:17 - Entry: (11480, 'Unibet', 'Tour of Flanders 2023', 'Matthews, Michael', 151.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:54:17 - Entry: (11499, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 51.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:54:17 - Entry: (11481, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 41.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:54:17 - Entry: (11500, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 2.75, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:54:17 - Entry: (11485, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 2.2, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:54:17 - Entry: (11501, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:54:17 - Entry: (11489, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.5, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:54:17 - Entry: (11502, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:54:17 - Entry: (11491, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.5, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:54:17 - Odds changed: 9
+2023/04/02 13:55:18 - Entry: (11503, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 34.0, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:55:18 - Entry: (11497, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 15.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:55:18 - Entry: (11504, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 23.0, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:55:18 - Entry: (11479, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 34.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:55:18 - Entry: (11505, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 12.0, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:55:18 - Entry: (11483, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 8.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:55:18 - Entry: (11506, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 17.0, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:55:18 - Entry: (11484, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 21.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:55:18 - Entry: (11507, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:55:18 - Entry: (11500, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 2.75, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:55:18 - Entry: (11508, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.5, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:55:18 - Entry: (11501, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:55:18 - Entry: (11509, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Gianni', 41.0, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:55:18 - Entry: (11490, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Gianni', 23.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:55:18 - Entry: (11510, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.5, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:55:18 - Entry: (11502, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:55:19 - Odds changed: 8
+2023/04/02 13:56:19 - Entry: (11511, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 101.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11470, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 81.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:56:19 - Entry: (11512, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 151.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11494, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 67.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 13:56:19 - Entry: (11513, 'Unibet', 'Tour of Flanders 2023', 'Geniets, Kevin', 201.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11098, 'Unibet', 'Tour of Flanders 2023', 'Geniets, Kevin', 601.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:56:19 - Entry: (11514, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 67.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11109, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 51.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:56:19 - Entry: (11515, 'Unibet', 'Tour of Flanders 2023', 'Lampaert, Yves', 101.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11478, 'Unibet', 'Tour of Flanders 2023', 'Lampaert, Yves', 51.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:56:19 - Entry: (11516, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 29.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11504, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 23.0, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:56:19 - Entry: (11517, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 81.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11482, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 51.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:56:19 - Entry: (11518, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 15.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11505, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 12.0, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:56:19 - Entry: (11519, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 19.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11506, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 17.0, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:56:19 - Entry: (11520, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 51.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11486, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 41.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:56:19 - Entry: (11521, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 81.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11488, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 51.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 13:56:19 - Entry: (11522, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 41.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11467, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 51.0, '2023/04/02 13:48:09', '109.0')
+2023/04/02 13:56:19 - Entry: (11523, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Gianni', 51.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:56:19 - Entry: (11509, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Gianni', 41.0, '2023/04/02 13:55:17', '106.9')
+2023/04/02 13:56:20 - Odds changed: 13
+2023/04/02 13:57:20 - Entry: (11524, 'Unibet', 'Tour of Flanders 2023', 'Kristoff, Alexander', 101.0, '2023/04/02 13:57:20', '105.5')
+2023/04/02 13:57:20 - Entry: (11108, 'Unibet', 'Tour of Flanders 2023', 'Kristoff, Alexander', 81.0, '2023/04/02 09:54:29', None)
+2023/04/02 13:57:20 - Entry: (11525, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 126.0, '2023/04/02 13:57:20', '105.5')
+2023/04/02 13:57:20 - Entry: (11517, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 81.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 13:57:21 - Odds changed: 2
+2023/04/02 13:58:22 - Odds changed: 0
+2023/04/02 13:59:23 - Odds changed: 0
+2023/04/02 14:00:24 - Odds changed: 0
+2023/04/02 14:01:25 - Entry: (11526, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 19.0, '2023/04/02 14:01:24', '102.6')
+2023/04/02 14:01:25 - Entry: (11518, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 15.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:01:25 - Entry: (11527, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.25, '2023/04/02 14:01:24', '102.6')
+2023/04/02 14:01:25 - Entry: (11508, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.5, '2023/04/02 13:55:17', '106.9')
+2023/04/02 14:01:25 - Entry: (11528, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 51.0, '2023/04/02 14:01:24', '102.6')
+2023/04/02 14:01:25 - Entry: (11447, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 81.0, '2023/04/02 13:27:46', '124.0')
+2023/04/02 14:01:25 - Odds changed: 3
+2023/04/02 14:02:26 - Odds changed: 0
+2023/04/02 14:03:27 - Entry: (11529, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 67.0, '2023/04/02 14:03:26', '101.1')
+2023/04/02 14:03:27 - Entry: (11511, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 101.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:03:27 - Entry: (11530, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 21.0, '2023/04/02 14:03:26', '101.1')
+2023/04/02 14:03:27 - Entry: (11471, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 41.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 14:03:27 - Entry: (11531, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 51.0, '2023/04/02 14:03:26', '101.1')
+2023/04/02 14:03:27 - Entry: (11495, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 101.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 14:03:27 - Entry: (11532, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 34.0, '2023/04/02 14:03:26', '101.1')
+2023/04/02 14:03:27 - Entry: (11521, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 81.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:03:27 - Odds changed: 4
+2023/04/02 14:04:28 - Entry: (11533, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 34.0, '2023/04/02 14:04:27', '100.4')
+2023/04/02 14:04:28 - Entry: (11514, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 67.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:04:28 - Entry: (11534, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 26.0, '2023/04/02 14:04:27', '100.4')
+2023/04/02 14:04:28 - Entry: (11532, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 34.0, '2023/04/02 14:03:26', '101.1')
+2023/04/02 14:04:28 - Entry: (11535, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 67.0, '2023/04/02 14:04:27', '100.4')
+2023/04/02 14:04:28 - Entry: (11142, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 14:04:28 - Odds changed: 3
+2023/04/02 14:05:30 - Odds changed: 0
+2023/04/02 14:06:31 - Odds changed: 0
+2023/04/02 14:07:32 - Odds changed: 0
+2023/04/02 14:08:33 - Odds changed: 0
+2023/04/02 14:09:33 - Entry: (11536, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 41.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:33 - Entry: (11531, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 51.0, '2023/04/02 14:03:26', '101.1')
+2023/04/02 14:09:33 - Entry: (11537, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 41.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:33 - Entry: (11503, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 34.0, '2023/04/02 13:55:17', '106.9')
+2023/04/02 14:09:33 - Entry: (11538, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 17.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:33 - Entry: (11533, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 34.0, '2023/04/02 14:04:27', '100.4')
+2023/04/02 14:09:33 - Entry: (11539, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 34.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:33 - Entry: (11516, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 29.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:09:33 - Entry: (11540, 'Unibet', 'Tour of Flanders 2023', 'Mohoric, Matej', 23.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:33 - Entry: (525, 'Unibet', 'Tour of Flanders 2023', 'Mohoric, Matej', 34.0, '2023/03/11 22:02:58', None)
+2023/04/02 14:09:33 - Entry: (11541, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 34.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:33 - Entry: (11525, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 126.0, '2023/04/02 13:57:20', '105.5')
+2023/04/02 14:09:33 - Entry: (11542, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 12.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:33 - Entry: (11526, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 19.0, '2023/04/02 14:01:24', '102.6')
+2023/04/02 14:09:33 - Entry: (11543, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 26.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:33 - Entry: (11519, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 19.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:09:33 - Entry: (11544, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 41.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:33 - Entry: (11534, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 26.0, '2023/04/02 14:04:27', '100.4')
+2023/04/02 14:09:33 - Entry: (11545, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:33 - Entry: (11527, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.25, '2023/04/02 14:01:24', '102.6')
+2023/04/02 14:09:34 - Entry: (11546, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 34.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:34 - Entry: (11522, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 41.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:09:34 - Entry: (11547, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 51.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:34 - Entry: (11139, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 14:09:34 - Entry: (11548, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 34.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:34 - Entry: (11535, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 67.0, '2023/04/02 14:04:27', '100.4')
+2023/04/02 14:09:34 - Entry: (11549, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 19.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:09:34 - Entry: (11528, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 51.0, '2023/04/02 14:01:24', '102.6')
+2023/04/02 14:09:34 - Odds changed: 14
+2023/04/02 14:10:35 - Entry: (11550, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 34.0, '2023/04/02 14:10:34', '96.0')
+2023/04/02 14:10:35 - Entry: (11544, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 41.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:10:36 - Odds changed: 1
+2023/04/02 14:11:37 - Odds changed: 0
+2023/04/02 14:12:38 - Odds changed: 0
+2023/04/02 14:13:38 - Entry: (11551, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 23.0, '2023/04/02 14:13:38', '93.8')
+2023/04/02 14:13:38 - Entry: (11537, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 41.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:13:39 - Odds changed: 1
+2023/04/02 14:14:40 - Odds changed: 0
+2023/04/02 14:15:41 - Entry: (11552, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 15.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:15:41 - Entry: (11530, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 21.0, '2023/04/02 14:03:26', '101.1')
+2023/04/02 14:15:41 - Entry: (11553, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 51.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:15:41 - Entry: (7933, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 401.0, '2023/03/24 18:55:25', None)
+2023/04/02 14:15:41 - Entry: (11554, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 17.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:15:41 - Entry: (11551, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 23.0, '2023/04/02 14:13:38', '93.8')
+2023/04/02 14:15:41 - Entry: (11555, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 15.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:15:41 - Entry: (11538, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 17.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:15:41 - Entry: (11556, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 8.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:15:41 - Entry: (11542, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 12.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:15:41 - Entry: (11557, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:15:41 - Entry: (11507, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 13:55:17', '106.9')
+2023/04/02 14:15:41 - Entry: (11558, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:15:41 - Entry: (11510, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.5, '2023/04/02 13:55:17', '106.9')
+2023/04/02 14:15:41 - Entry: (11559, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 17.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:15:41 - Entry: (11549, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 19.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:15:42 - Odds changed: 8
+2023/04/02 14:16:42 - Entry: (11560, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 51.0, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:16:42 - Entry: (11536, 'Unibet', 'Tour of Flanders 2023', 'Girmay Hailu, Biniam', 41.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:16:42 - Entry: (11561, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 41.0, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:16:42 - Entry: (11539, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 34.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:16:42 - Entry: (11562, 'Unibet', 'Tour of Flanders 2023', 'Mohoric, Matej', 34.0, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:16:42 - Entry: (11540, 'Unibet', 'Tour of Flanders 2023', 'Mohoric, Matej', 23.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:16:42 - Entry: (11563, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 34.0, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:16:42 - Entry: (11543, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 26.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:16:42 - Entry: (11564, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.5, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:16:42 - Entry: (11557, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:16:42 - Entry: (11565, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 26.0, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:16:42 - Entry: (11548, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 34.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:16:43 - Odds changed: 6
+2023/04/02 14:17:43 - Entry: (11566, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 101.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11529, 'Unibet', 'Tour of Flanders 2023', 'Alaphilippe, Julian', 67.0, '2023/04/02 14:03:26', '101.1')
+2023/04/02 14:17:43 - Entry: (11567, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 201.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11512, 'Unibet', 'Tour of Flanders 2023', 'Benoot, Tiesj', 151.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:17:43 - Entry: (11568, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 301.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11473, 'Unibet', 'Tour of Flanders 2023', 'de Buyst, Jasper', 101.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 14:17:43 - Entry: (11569, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 201.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11496, 'Unibet', 'Tour of Flanders 2023', 'Houle, Hugo', 81.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 14:17:43 - Entry: (11570, 'Unibet', 'Tour of Flanders 2023', 'Kristoff, Alexander', 151.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11524, 'Unibet', 'Tour of Flanders 2023', 'Kristoff, Alexander', 101.0, '2023/04/02 13:57:20', '105.5')
+2023/04/02 14:17:43 - Entry: (11571, 'Unibet', 'Tour of Flanders 2023', 'Lampaert, Yves', 151.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11515, 'Unibet', 'Tour of Flanders 2023', 'Lampaert, Yves', 101.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:17:43 - Entry: (11572, 'Unibet', 'Tour of Flanders 2023', 'Matthews, Michael', 126.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11498, 'Unibet', 'Tour of Flanders 2023', 'Matthews, Michael', 101.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 14:17:43 - Entry: (11573, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 101.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11499, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 51.0, '2023/04/02 13:54:16', '107.7')
+2023/04/02 14:17:43 - Entry: (11574, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 151.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11124, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 126.0, '2023/04/02 09:54:29', None)
+2023/04/02 14:17:43 - Entry: (11575, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 101.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11520, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 51.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:17:43 - Entry: (11576, 'Unibet', 'Tour of Flanders 2023', 'Stuyven, Jasper', 151.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (8032, 'Unibet', 'Tour of Flanders 2023', 'Stuyven, Jasper', 101.0, '2023/03/24 18:55:25', None)
+2023/04/02 14:17:43 - Entry: (11577, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 101.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11547, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 51.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:17:43 - Entry: (11578, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Gianni', 201.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11523, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Gianni', 51.0, '2023/04/02 13:56:19', '106.2')
+2023/04/02 14:17:43 - Entry: (11579, 'Unibet', 'Tour of Flanders 2023', 'Colombo, Filippo', 301.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11492, 'Unibet', 'Tour of Flanders 2023', 'Colombo, Filippo', 101.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 14:17:43 - Entry: (11580, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', 201.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:17:43 - Entry: (11493, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', 101.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 14:17:44 - Odds changed: 15
+2023/04/02 14:18:45 - Odds changed: 0
+2023/04/02 14:19:46 - Odds changed: 0
+2023/04/02 14:20:48 - Odds changed: 0
+2023/04/02 14:21:48 - Entry: (11581, 'Unibet', 'Tour of Flanders 2023', 'Garcia Cortina, Ivan', 201.0, '2023/04/02 14:21:48', '88.0')
+2023/04/02 14:21:48 - Entry: (10991, 'Unibet', 'Tour of Flanders 2023', 'Garcia Cortina, Ivan', 151.0, '2023/03/26 17:24:42', None)
+2023/04/02 14:21:48 - Entry: (11582, 'Unibet', 'Tour of Flanders 2023', 'Kristoff, Alexander', 201.0, '2023/04/02 14:21:48', '88.0')
+2023/04/02 14:21:48 - Entry: (11570, 'Unibet', 'Tour of Flanders 2023', 'Kristoff, Alexander', 151.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:21:48 - Entry: (11583, 'Unibet', 'Tour of Flanders 2023', 'Stuyven, Jasper', 201.0, '2023/04/02 14:21:48', '88.0')
+2023/04/02 14:21:48 - Entry: (11576, 'Unibet', 'Tour of Flanders 2023', 'Stuyven, Jasper', 151.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:21:48 - Entry: (11584, 'Unibet', 'Tour of Flanders 2023', 'Teuns, Dylan', 201.0, '2023/04/02 14:21:48', '88.0')
+2023/04/02 14:21:48 - Entry: (11487, 'Unibet', 'Tour of Flanders 2023', 'Teuns, Dylan', 101.0, '2023/04/02 13:53:15', '108.4')
+2023/04/02 14:21:48 - Entry: (11585, 'Unibet', 'Tour of Flanders 2023', 'Turgis, Anthony', 201.0, '2023/04/02 14:21:48', '88.0')
+2023/04/02 14:21:48 - Entry: (11147, 'Unibet', 'Tour of Flanders 2023', 'Turgis, Anthony', 151.0, '2023/04/02 09:54:29', None)
+2023/04/02 14:21:49 - Odds changed: 5
+2023/04/02 14:22:49 - Entry: (11586, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 34.0, '2023/04/02 14:22:49', '87.2')
+2023/04/02 14:22:49 - Entry: (11577, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 101.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:22:50 - Odds changed: 1
+2023/04/02 14:23:51 - Entry: (11587, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 5.0, '2023/04/02 14:23:50', '87.9')
+2023/04/02 14:23:51 - Entry: (11564, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.5, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:23:51 - Entry: (11588, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.5, '2023/04/02 14:23:50', '87.9')
+2023/04/02 14:23:51 - Entry: (11558, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:23:51 - Odds changed: 2
+2023/04/02 14:24:52 - Odds changed: 0
+2023/04/02 14:25:53 - Entry: (11589, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 34.0, '2023/04/02 14:25:52', '86.4')
+2023/04/02 14:25:53 - Entry: (11553, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 51.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:25:53 - Entry: (11590, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 7.0, '2023/04/02 14:25:52', '86.4')
+2023/04/02 14:25:53 - Entry: (11556, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 8.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:25:54 - Odds changed: 2
+2023/04/02 14:26:55 - Odds changed: 0
+2023/04/02 14:27:56 - Odds changed: 0
+2023/04/02 14:28:57 - Entry: (11591, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 12.0, '2023/04/02 14:28:56', '84.2')
+2023/04/02 14:28:57 - Entry: (11552, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 15.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:28:57 - Odds changed: 1
+2023/04/02 14:29:58 - Entry: (11592, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 23.0, '2023/04/02 14:29:57', '83.5')
+2023/04/02 14:29:58 - Entry: (11565, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 26.0, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:29:58 - Odds changed: 1
+2023/04/02 14:30:59 - Odds changed: 0
+2023/04/02 14:32:01 - Odds changed: 0
+2023/04/02 14:33:02 - Odds changed: 0
+2023/04/02 14:34:03 - Odds changed: 0
+2023/04/02 14:35:04 - Odds changed: 0
+2023/04/02 14:36:06 - Odds changed: 0
+2023/04/02 14:37:06 - Entry: (11593, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 67.0, '2023/04/02 14:37:06', '77.4')
+2023/04/02 14:37:06 - Entry: (11575, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 101.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:37:06 - Entry: (11594, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 26.0, '2023/04/02 14:37:06', '77.4')
+2023/04/02 14:37:06 - Entry: (11586, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 34.0, '2023/04/02 14:22:49', '87.2')
+2023/04/02 14:37:07 - Odds changed: 2
+2023/04/02 14:38:07 - Entry: (11595, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 81.0, '2023/04/02 14:38:07', '76.7')
+2023/04/02 14:38:07 - Entry: (11574, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 151.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 14:38:08 - Odds changed: 1
+2023/04/02 14:39:08 - Entry: (11596, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 13.0, '2023/04/02 14:39:08', '76.0')
+2023/04/02 14:39:08 - Entry: (11554, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 17.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:39:08 - Entry: (11597, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 6.0, '2023/04/02 14:39:08', '76.0')
+2023/04/02 14:39:08 - Entry: (11590, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 7.0, '2023/04/02 14:25:52', '86.4')
+2023/04/02 14:39:08 - Entry: (11598, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 5.5, '2023/04/02 14:39:08', '76.0')
+2023/04/02 14:39:08 - Entry: (11587, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 5.0, '2023/04/02 14:23:50', '87.9')
+2023/04/02 14:39:08 - Entry: (11599, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.5, '2023/04/02 14:39:08', '76.0')
+2023/04/02 14:39:08 - Entry: (11545, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:39:08 - Entry: (11600, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 14:39:08', '76.0')
+2023/04/02 14:39:08 - Entry: (11588, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.5, '2023/04/02 14:23:50', '87.9')
+2023/04/02 14:39:09 - Odds changed: 5
+2023/04/02 14:40:09 - Entry: (11601, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 201.0, '2023/04/02 14:40:09', '75.3')
+2023/04/02 14:40:09 - Entry: (11595, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 81.0, '2023/04/02 14:38:07', '76.7')
+2023/04/02 14:40:10 - Odds changed: 1
+2023/04/02 14:41:11 - Odds changed: 0
+2023/04/02 14:42:12 - Entry: (11602, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 7.0, '2023/04/02 14:42:11', '73.8')
+2023/04/02 14:42:12 - Entry: (11597, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 6.0, '2023/04/02 14:39:08', '76.0')
+2023/04/02 14:42:12 - Odds changed: 1
+2023/04/02 14:43:13 - Odds changed: 0
+2023/04/02 14:44:15 - Odds changed: 0
+2023/04/02 14:45:16 - Odds changed: 0
+2023/04/02 14:46:17 - Odds changed: 0
+2023/04/02 14:47:17 - Entry: (11603, 'Unibet', 'Tour of Flanders 2023', 'Mohoric, Matej', 67.0, '2023/04/02 14:47:17', '71.4')
+2023/04/02 14:47:17 - Entry: (11562, 'Unibet', 'Tour of Flanders 2023', 'Mohoric, Matej', 34.0, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:47:18 - Odds changed: 1
+2023/04/02 14:48:18 - Entry: (11604, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 14:48:18', '70.7')
+2023/04/02 14:48:18 - Entry: (11598, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 5.5, '2023/04/02 14:39:08', '76.0')
+2023/04/02 14:48:18 - Entry: (11605, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.0, '2023/04/02 14:48:18', '70.7')
+2023/04/02 14:48:18 - Entry: (11599, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.5, '2023/04/02 14:39:08', '76.0')
+2023/04/02 14:48:18 - Entry: (11606, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.5, '2023/04/02 14:48:18', '70.7')
+2023/04/02 14:48:18 - Entry: (11600, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 14:39:08', '76.0')
+2023/04/02 14:48:19 - Odds changed: 3
+2023/04/02 14:49:20 - Odds changed: 0
+2023/04/02 14:50:21 - Odds changed: 0
+2023/04/02 14:51:22 - Odds changed: 0
+2023/04/02 14:52:23 - Entry: (11607, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.5, '2023/04/02 14:52:22', '67.4')
+2023/04/02 14:52:23 - Entry: (11604, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 14:48:18', '70.7')
+2023/04/02 14:52:24 - Odds changed: 1
+2023/04/02 14:53:25 - Odds changed: 0
+2023/04/02 14:54:26 - Odds changed: 0
+2023/04/02 14:55:26 - Entry: (11608, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 9.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11591, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 12.0, '2023/04/02 14:28:56', '84.2')
+2023/04/02 14:55:26 - Entry: (11609, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 26.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11589, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 34.0, '2023/04/02 14:25:52', '86.4')
+2023/04/02 14:55:26 - Entry: (11610, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 11.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11555, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 15.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:55:26 - Entry: (11611, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 51.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11561, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 41.0, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:55:26 - Entry: (11612, 'Unibet', 'Tour of Flanders 2023', 'Mohoric, Matej', 81.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11603, 'Unibet', 'Tour of Flanders 2023', 'Mohoric, Matej', 67.0, '2023/04/02 14:47:17', '71.4')
+2023/04/02 14:55:26 - Entry: (11613, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 21.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11541, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 34.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:55:26 - Entry: (11614, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 5.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11602, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 7.0, '2023/04/02 14:42:11', '73.8')
+2023/04/02 14:55:26 - Entry: (11615, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 51.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11563, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 34.0, '2023/04/02 14:16:42', '91.6')
+2023/04/02 14:55:26 - Entry: (11616, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 6.5, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11607, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.5, '2023/04/02 14:52:22', '67.4')
+2023/04/02 14:55:26 - Entry: (11617, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 12.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11550, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 34.0, '2023/04/02 14:10:34', '96.0')
+2023/04/02 14:55:26 - Entry: (11618, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 5.5, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11605, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.0, '2023/04/02 14:48:18', '70.7')
+2023/04/02 14:55:26 - Entry: (11619, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 21.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11546, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 34.0, '2023/04/02 14:09:33', '96.7')
+2023/04/02 14:55:26 - Entry: (11620, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 23.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11594, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 26.0, '2023/04/02 14:37:06', '77.4')
+2023/04/02 14:55:26 - Entry: (11621, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 15.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:26 - Entry: (11592, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 23.0, '2023/04/02 14:29:57', '83.5')
+2023/04/02 14:55:27 - Entry: (11622, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 6.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:27 - Entry: (11606, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 3.5, '2023/04/02 14:48:18', '70.7')
+2023/04/02 14:55:27 - Entry: (11623, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 12.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:55:27 - Entry: (11559, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 17.0, '2023/04/02 14:15:40', '92.3')
+2023/04/02 14:55:27 - Odds changed: 16
+2023/04/02 14:56:28 - Entry: (11624, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 12.0, '2023/04/02 14:56:27', '64.7')
+2023/04/02 14:56:28 - Entry: (11596, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 13.0, '2023/04/02 14:39:08', '76.0')
+2023/04/02 14:56:28 - Entry: (11625, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 9.0, '2023/04/02 14:56:27', '64.7')
+2023/04/02 14:56:28 - Entry: (11610, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 11.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:56:28 - Entry: (11626, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.5, '2023/04/02 14:56:27', '64.7')
+2023/04/02 14:56:28 - Entry: (11614, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 5.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:56:28 - Entry: (11627, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 11.0, '2023/04/02 14:56:27', '64.7')
+2023/04/02 14:56:28 - Entry: (11617, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 12.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:56:28 - Entry: (11628, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 10.0, '2023/04/02 14:56:27', '64.7')
+2023/04/02 14:56:28 - Entry: (11623, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 12.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:56:28 - Odds changed: 5
+2023/04/02 14:57:30 - Entry: (11629, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 7.0, '2023/04/02 14:57:28', '63.9')
+2023/04/02 14:57:30 - Entry: (11616, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 6.5, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:57:30 - Entry: (11630, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 6.0, '2023/04/02 14:57:28', '63.9')
+2023/04/02 14:57:30 - Entry: (11618, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 5.5, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:57:30 - Entry: (11631, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 6.5, '2023/04/02 14:57:28', '63.9')
+2023/04/02 14:57:30 - Entry: (11622, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 6.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 14:57:31 - Odds changed: 3
+2023/04/02 14:58:32 - Odds changed: 0
+2023/04/02 14:59:33 - Odds changed: 0
+2023/04/02 15:00:34 - Entry: (11632, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 67.0, '2023/04/02 15:00:33', '61.5')
+2023/04/02 15:00:34 - Entry: (11573, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 101.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 15:00:35 - Odds changed: 1
+2023/04/02 15:01:36 - Odds changed: 0
+2023/04/02 15:02:36 - Entry: (11633, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 26.0, '2023/04/02 15:02:36', '59.8')
+2023/04/02 15:02:36 - Entry: (11613, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 21.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 15:02:37 - Odds changed: 1
+2023/04/02 15:03:38 - Odds changed: 0
+2023/04/02 15:04:39 - Odds changed: 0
+2023/04/02 15:05:40 - Odds changed: 0
+2023/04/02 15:06:41 - Entry: (11634, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', 601.0, '2023/04/02 15:06:40', '56.5')
+2023/04/02 15:06:41 - Entry: (11580, 'Unibet', 'Tour of Flanders 2023', 'Van Keirsbulck, Guillaume', 201.0, '2023/04/02 14:17:43', '90.9')
+2023/04/02 15:06:41 - Odds changed: 1
+2023/04/02 15:07:42 - Odds changed: 0
+2023/04/02 15:08:43 - Odds changed: 0
+2023/04/02 15:09:44 - Odds changed: 0
+2023/04/02 15:10:45 - Entry: (11635, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 15.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:45 - Entry: (11608, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 9.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 15:10:45 - Entry: (11636, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 41.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:45 - Entry: (11609, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 26.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 15:10:45 - Entry: (11637, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 15.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:45 - Entry: (11624, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 12.0, '2023/04/02 14:56:27', '64.7')
+2023/04/02 15:10:45 - Entry: (11638, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 15.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:45 - Entry: (11625, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 9.0, '2023/04/02 14:56:27', '64.7')
+2023/04/02 15:10:45 - Entry: (11639, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 41.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:45 - Entry: (11633, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 26.0, '2023/04/02 15:02:36', '59.8')
+2023/04/02 15:10:45 - Entry: (11640, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 2.25, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:45 - Entry: (11629, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 7.0, '2023/04/02 14:57:28', '63.9')
+2023/04/02 15:10:45 - Entry: (11641, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 26.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:45 - Entry: (11627, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 11.0, '2023/04/02 14:56:27', '64.7')
+2023/04/02 15:10:45 - Entry: (11642, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 7.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:45 - Entry: (11630, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 6.0, '2023/04/02 14:57:28', '63.9')
+2023/04/02 15:10:45 - Entry: (11643, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 34.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:45 - Entry: (11619, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 21.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 15:10:45 - Entry: (11644, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 34.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:45 - Entry: (11620, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 23.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 15:10:46 - Entry: (11645, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 21.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:46 - Entry: (11621, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 15.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 15:10:46 - Entry: (11646, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 7.5, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:46 - Entry: (11631, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 6.5, '2023/04/02 14:57:28', '63.9')
+2023/04/02 15:10:46 - Entry: (11647, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 19.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:10:46 - Entry: (11628, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 10.0, '2023/04/02 14:56:27', '64.7')
+2023/04/02 15:10:46 - Odds changed: 13
+2023/04/02 15:11:47 - Odds changed: 0
+2023/04/02 15:12:48 - Entry: (11648, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 23.0, '2023/04/02 15:12:47', '52.6')
+2023/04/02 15:12:48 - Entry: (11615, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 51.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 15:12:48 - Entry: (11649, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 2.75, '2023/04/02 15:12:47', '52.6')
+2023/04/02 15:12:48 - Entry: (11640, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 2.25, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:12:48 - Entry: (11650, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 5.0, '2023/04/02 15:12:47', '52.6')
+2023/04/02 15:12:48 - Entry: (11642, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 7.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:12:48 - Entry: (11651, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 6.0, '2023/04/02 15:12:47', '52.6')
+2023/04/02 15:12:48 - Entry: (11646, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 7.5, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:12:49 - Odds changed: 4
+2023/04/02 15:13:49 - Entry: (11652, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 5.0, '2023/04/02 15:13:49', '51.9')
+2023/04/02 15:13:49 - Entry: (11626, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.5, '2023/04/02 14:56:27', '64.7')
+2023/04/02 15:13:49 - Entry: (11653, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.0, '2023/04/02 15:13:49', '51.9')
+2023/04/02 15:13:49 - Entry: (11649, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 2.75, '2023/04/02 15:12:47', '52.6')
+2023/04/02 15:13:49 - Entry: (11654, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 67.0, '2023/04/02 15:13:49', '51.9')
+2023/04/02 15:13:49 - Entry: (11601, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 201.0, '2023/04/02 14:40:09', '75.3')
+2023/04/02 15:13:50 - Odds changed: 3
+2023/04/02 15:14:51 - Odds changed: 0
+2023/04/02 15:15:52 - Odds changed: 0
+2023/04/02 15:16:53 - Entry: (11655, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 201.0, '2023/04/02 15:16:52', '49.7')
+2023/04/02 15:16:53 - Entry: (11654, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 67.0, '2023/04/02 15:13:49', '51.9')
+2023/04/02 15:16:54 - Odds changed: 1
+2023/04/02 15:17:54 - Entry: (11656, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 8.0, '2023/04/02 15:17:54', '48.9')
+2023/04/02 15:17:54 - Entry: (11635, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 15.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:17:54 - Entry: (11657, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 15:17:54', '48.9')
+2023/04/02 15:17:54 - Entry: (11653, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.0, '2023/04/02 15:13:49', '51.9')
+2023/04/02 15:17:55 - Entry: (11658, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 15:17:54', '48.9')
+2023/04/02 15:17:55 - Entry: (11651, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 6.0, '2023/04/02 15:12:47', '52.6')
+2023/04/02 15:17:55 - Odds changed: 3
+2023/04/02 15:18:56 - Entry: (11659, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 15.0, '2023/04/02 15:18:55', '48.2')
+2023/04/02 15:18:56 - Entry: (11611, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 51.0, '2023/04/02 14:55:26', '65.2')
+2023/04/02 15:18:56 - Odds changed: 1
+2023/04/02 15:19:57 - Entry: (11660, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 7.0, '2023/04/02 15:19:56', '48.3')
+2023/04/02 15:19:57 - Entry: (11656, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 8.0, '2023/04/02 15:17:54', '48.9')
+2023/04/02 15:19:57 - Entry: (11661, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 51.0, '2023/04/02 15:19:56', '48.3')
+2023/04/02 15:19:57 - Entry: (11636, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 41.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:19:57 - Entry: (11662, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 11.0, '2023/04/02 15:19:56', '48.3')
+2023/04/02 15:19:57 - Entry: (11659, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 15.0, '2023/04/02 15:18:55', '48.2')
+2023/04/02 15:19:57 - Entry: (11663, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 41.0, '2023/04/02 15:19:56', '48.3')
+2023/04/02 15:19:57 - Entry: (11643, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 34.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:19:57 - Entry: (11664, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 41.0, '2023/04/02 15:19:56', '48.3')
+2023/04/02 15:19:57 - Entry: (11644, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 34.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:19:57 - Odds changed: 5
+2023/04/02 15:20:58 - Entry: (11665, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 21.0, '2023/04/02 15:20:57', '47.6')
+2023/04/02 15:20:58 - Entry: (11637, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 15.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:20:58 - Entry: (11666, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 19.0, '2023/04/02 15:20:57', '47.6')
+2023/04/02 15:20:58 - Entry: (11638, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 15.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:20:58 - Entry: (11667, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 12.0, '2023/04/02 15:20:57', '47.6')
+2023/04/02 15:20:58 - Entry: (11662, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 11.0, '2023/04/02 15:19:56', '48.3')
+2023/04/02 15:20:58 - Entry: (11668, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.5, '2023/04/02 15:20:57', '47.6')
+2023/04/02 15:20:58 - Entry: (11650, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 5.0, '2023/04/02 15:12:47', '52.6')
+2023/04/02 15:20:58 - Entry: (11669, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 6.5, '2023/04/02 15:20:57', '47.6')
+2023/04/02 15:20:58 - Entry: (11658, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 15:17:54', '48.9')
+2023/04/02 15:20:58 - Odds changed: 5
+2023/04/02 15:21:59 - Entry: (11670, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 34.0, '2023/04/02 15:21:58', '46.8')
+2023/04/02 15:21:59 - Entry: (11641, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 26.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:21:59 - Entry: (11671, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 26.0, '2023/04/02 15:21:58', '46.8')
+2023/04/02 15:21:59 - Entry: (11645, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 21.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:22:00 - Odds changed: 2
+2023/04/02 15:23:00 - Entry: (11672, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 51.0, '2023/04/02 15:23:00', '46.1')
+2023/04/02 15:23:00 - Entry: (11639, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 41.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:23:01 - Odds changed: 1
+2023/04/02 15:24:01 - Entry: (11673, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 13.0, '2023/04/02 15:24:01', '45.4')
+2023/04/02 15:24:01 - Entry: (11666, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 19.0, '2023/04/02 15:20:57', '47.6')
+2023/04/02 15:24:01 - Entry: (11674, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 15.0, '2023/04/02 15:24:01', '45.4')
+2023/04/02 15:24:01 - Entry: (11670, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 34.0, '2023/04/02 15:21:58', '46.8')
+2023/04/02 15:24:02 - Odds changed: 2
+2023/04/02 15:25:02 - Entry: (11675, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 15.0, '2023/04/02 15:25:02', '44.7')
+2023/04/02 15:25:02 - Entry: (11667, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 12.0, '2023/04/02 15:20:57', '47.6')
+2023/04/02 15:25:02 - Entry: (11676, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.0, '2023/04/02 15:25:02', '44.7')
+2023/04/02 15:25:02 - Entry: (11652, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 5.0, '2023/04/02 15:13:49', '51.9')
+2023/04/02 15:25:02 - Entry: (11677, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 15:25:02', '44.7')
+2023/04/02 15:25:02 - Entry: (11657, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 15:17:54', '48.9')
+2023/04/02 15:25:02 - Entry: (11678, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 17.0, '2023/04/02 15:25:02', '44.7')
+2023/04/02 15:25:02 - Entry: (11671, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 26.0, '2023/04/02 15:21:58', '46.8')
+2023/04/02 15:25:03 - Odds changed: 4
+2023/04/02 15:26:04 - Odds changed: 0
+2023/04/02 15:27:04 - Entry: (11679, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 10.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11660, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 7.0, '2023/04/02 15:19:56', '48.3')
+2023/04/02 15:27:04 - Entry: (11680, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 34.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11665, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 21.0, '2023/04/02 15:20:57', '47.6')
+2023/04/02 15:27:04 - Entry: (11681, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 15.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11673, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 13.0, '2023/04/02 15:24:01', '45.4')
+2023/04/02 15:27:04 - Entry: (11682, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 26.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11675, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 15.0, '2023/04/02 15:25:02', '44.7')
+2023/04/02 15:27:04 - Entry: (11683, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 401.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11632, 'Unibet', 'Tour of Flanders 2023', 'Merlier, Tim', 67.0, '2023/04/02 15:00:33', '61.5')
+2023/04/02 15:27:04 - Entry: (11684, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 5.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11676, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.0, '2023/04/02 15:25:02', '44.7')
+2023/04/02 15:27:04 - Entry: (11685, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 51.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11648, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 23.0, '2023/04/02 15:12:47', '52.6')
+2023/04/02 15:27:04 - Entry: (11686, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11677, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 15:25:02', '44.7')
+2023/04/02 15:27:04 - Entry: (11687, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 401.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11655, 'Unibet', 'Tour of Flanders 2023', 'Politt, Nils', 201.0, '2023/04/02 15:16:52', '49.7')
+2023/04/02 15:27:04 - Entry: (11688, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 401.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11593, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 67.0, '2023/04/02 14:37:06', '77.4')
+2023/04/02 15:27:04 - Entry: (11689, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 17.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:04 - Entry: (11674, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 15.0, '2023/04/02 15:24:01', '45.4')
+2023/04/02 15:27:05 - Entry: (11690, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.5, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:05 - Entry: (11668, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 4.5, '2023/04/02 15:20:57', '47.6')
+2023/04/02 15:27:05 - Entry: (11691, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 51.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:05 - Entry: (11663, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 41.0, '2023/04/02 15:19:56', '48.3')
+2023/04/02 15:27:05 - Entry: (11692, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 21.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:05 - Entry: (11678, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 17.0, '2023/04/02 15:25:02', '44.7')
+2023/04/02 15:27:05 - Entry: (11693, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 7.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:05 - Entry: (11669, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 6.5, '2023/04/02 15:20:57', '47.6')
+2023/04/02 15:27:05 - Entry: (11694, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 23.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:27:05 - Entry: (11647, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 19.0, '2023/04/02 15:10:44', '54.1')
+2023/04/02 15:27:05 - Odds changed: 16
+2023/04/02 15:28:06 - Odds changed: 0
+2023/04/02 15:29:07 - Odds changed: 0
+2023/04/02 15:30:08 - Entry: (11695, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 34.0, '2023/04/02 15:30:07', '41.0')
+2023/04/02 15:30:08 - Entry: (11682, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 26.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:30:08 - Entry: (11696, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 101.0, '2023/04/02 15:30:07', '41.0')
+2023/04/02 15:30:08 - Entry: (11688, 'Unibet', 'Tour of Flanders 2023', 'Rutsch, Jonas', 401.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:30:08 - Odds changed: 2
+2023/04/02 15:31:09 - Odds changed: 0
+2023/04/02 15:32:11 - Odds changed: 0
+2023/04/02 15:33:11 - Entry: (11697, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 7.0, '2023/04/02 15:33:11', '39.7')
+2023/04/02 15:33:11 - Entry: (11684, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 5.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:33:11 - Entry: (11698, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.5, '2023/04/02 15:33:11', '39.7')
+2023/04/02 15:33:11 - Entry: (11693, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 7.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:33:12 - Odds changed: 2
+2023/04/02 15:34:12 - Entry: (11699, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 13.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:34:12 - Entry: (11679, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 10.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:34:12 - Entry: (11700, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 19.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:34:12 - Entry: (11681, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 15.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:34:12 - Entry: (11701, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 51.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:34:12 - Entry: (11695, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 34.0, '2023/04/02 15:30:07', '41.0')
+2023/04/02 15:34:12 - Entry: (11702, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 7.5, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:34:12 - Entry: (11697, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 7.0, '2023/04/02 15:33:11', '39.7')
+2023/04/02 15:34:12 - Entry: (11703, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 21.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:34:12 - Entry: (11689, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 17.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:34:12 - Entry: (11704, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.25, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:34:12 - Entry: (11690, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.5, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:34:12 - Entry: (11705, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 34.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:34:12 - Entry: (11692, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 21.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:34:12 - Entry: (11706, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:34:12 - Entry: (11698, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.5, '2023/04/02 15:33:11', '39.7')
+2023/04/02 15:34:13 - Odds changed: 8
+2023/04/02 15:35:14 - Odds changed: 0
+2023/04/02 15:36:15 - Odds changed: 0
+2023/04/02 15:37:15 - Entry: (11707, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 17.0, '2023/04/02 15:37:15', '37.9')
+2023/04/02 15:37:15 - Entry: (11703, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 21.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:37:16 - Entry: (11708, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 2.5, '2023/04/02 15:37:15', '37.9')
+2023/04/02 15:37:16 - Entry: (11704, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.25, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:37:16 - Entry: (11709, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.0, '2023/04/02 15:37:15', '37.9')
+2023/04/02 15:37:16 - Entry: (11706, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:37:16 - Odds changed: 3
+2023/04/02 15:38:17 - Entry: (11710, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 15.0, '2023/04/02 15:38:16', '37.2')
+2023/04/02 15:38:17 - Entry: (11699, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 13.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:38:17 - Entry: (11711, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 41.0, '2023/04/02 15:38:16', '37.2')
+2023/04/02 15:38:17 - Entry: (11680, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 34.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:38:17 - Entry: (11712, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 9.0, '2023/04/02 15:38:16', '37.2')
+2023/04/02 15:38:17 - Entry: (11702, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 7.5, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:38:17 - Entry: (11713, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 21.0, '2023/04/02 15:38:16', '37.2')
+2023/04/02 15:38:17 - Entry: (11707, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 17.0, '2023/04/02 15:37:15', '37.9')
+2023/04/02 15:38:17 - Entry: (11714, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 2.75, '2023/04/02 15:38:16', '37.2')
+2023/04/02 15:38:17 - Entry: (11708, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 2.5, '2023/04/02 15:37:15', '37.9')
+2023/04/02 15:38:17 - Entry: (11715, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 34.0, '2023/04/02 15:38:16', '37.2')
+2023/04/02 15:38:17 - Entry: (11694, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 23.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:38:17 - Odds changed: 6
+2023/04/02 15:39:18 - Entry: (11716, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 101.0, '2023/04/02 15:39:17', '36.5')
+2023/04/02 15:39:18 - Entry: (11661, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 51.0, '2023/04/02 15:19:56', '48.3')
+2023/04/02 15:39:18 - Entry: (11717, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 81.0, '2023/04/02 15:39:17', '36.5')
+2023/04/02 15:39:18 - Entry: (11672, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 51.0, '2023/04/02 15:23:00', '46.1')
+2023/04/02 15:39:18 - Entry: (11718, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 8.0, '2023/04/02 15:39:17', '36.5')
+2023/04/02 15:39:18 - Entry: (11712, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 9.0, '2023/04/02 15:38:16', '37.2')
+2023/04/02 15:39:18 - Odds changed: 3
+2023/04/02 15:40:20 - Odds changed: 0
+2023/04/02 15:41:20 - Entry: (11719, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 17.0, '2023/04/02 15:41:20', '35.3')
+2023/04/02 15:41:20 - Entry: (11710, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 15.0, '2023/04/02 15:38:16', '37.2')
+2023/04/02 15:41:20 - Entry: (11720, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 21.0, '2023/04/02 15:41:20', '35.3')
+2023/04/02 15:41:20 - Entry: (11700, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 19.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:41:20 - Entry: (11721, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 17.0, '2023/04/02 15:41:20', '35.3')
+2023/04/02 15:41:20 - Entry: (11713, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 21.0, '2023/04/02 15:38:16', '37.2')
+2023/04/02 15:41:20 - Entry: (11722, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 34.0, '2023/04/02 15:41:20', '35.3')
+2023/04/02 15:41:20 - Entry: (11691, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 51.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:41:21 - Odds changed: 4
+2023/04/02 15:42:21 - Entry: (11723, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 201.0, '2023/04/02 15:42:21', '34.6')
+2023/04/02 15:42:21 - Entry: (11716, 'Unibet', 'Tour of Flanders 2023', 'Cosnefroy, Benoit', 101.0, '2023/04/02 15:39:17', '36.5')
+2023/04/02 15:42:22 - Odds changed: 1
+2023/04/02 15:43:23 - Entry: (11724, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 15:43:22', '33.9')
+2023/04/02 15:43:23 - Entry: (11686, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:43:23 - Entry: (11725, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 2.5, '2023/04/02 15:43:22', '33.9')
+2023/04/02 15:43:23 - Entry: (11714, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 2.75, '2023/04/02 15:38:16', '37.2')
+2023/04/02 15:43:23 - Odds changed: 2
+2023/04/02 15:44:24 - Odds changed: 0
+2023/04/02 15:45:25 - Odds changed: 0
+2023/04/02 15:46:26 - Odds changed: 0
+2023/04/02 15:47:27 - Entry: (11726, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 6.0, '2023/04/02 15:47:26', '30.7')
+2023/04/02 15:47:27 - Entry: (11718, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 8.0, '2023/04/02 15:39:17', '36.5')
+2023/04/02 15:47:27 - Odds changed: 1
+2023/04/02 15:48:28 - Odds changed: 0
+2023/04/02 15:49:29 - Entry: (11727, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.0, '2023/04/02 15:49:28', '29.8')
+2023/04/02 15:49:29 - Entry: (11726, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 6.0, '2023/04/02 15:47:26', '30.7')
+2023/04/02 15:49:30 - Odds changed: 1
+2023/04/02 15:50:30 - Entry: (11728, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 3.5, '2023/04/02 15:50:30', '28.6')
+2023/04/02 15:50:30 - Entry: (11727, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.0, '2023/04/02 15:49:28', '29.8')
+2023/04/02 15:50:30 - Entry: (11729, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.0, '2023/04/02 15:50:30', '28.6')
+2023/04/02 15:50:30 - Entry: (11725, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 2.5, '2023/04/02 15:43:22', '33.9')
+2023/04/02 15:50:31 - Odds changed: 2
+2023/04/02 15:51:31 - Entry: (11730, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 19.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:51:31 - Entry: (11719, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 17.0, '2023/04/02 15:41:20', '35.3')
+2023/04/02 15:51:31 - Entry: (11731, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 23.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:51:31 - Entry: (11720, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 21.0, '2023/04/02 15:41:20', '35.3')
+2023/04/02 15:51:31 - Entry: (11732, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:51:31 - Entry: (11728, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 3.5, '2023/04/02 15:50:30', '28.6')
+2023/04/02 15:51:31 - Entry: (11733, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:51:31 - Entry: (11724, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 15:43:22', '33.9')
+2023/04/02 15:51:31 - Entry: (11734, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 21.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:51:31 - Entry: (11721, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 17.0, '2023/04/02 15:41:20', '35.3')
+2023/04/02 15:51:31 - Entry: (11735, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 7.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:51:31 - Entry: (11729, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 3.0, '2023/04/02 15:50:30', '28.6')
+2023/04/02 15:51:31 - Entry: (11736, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 101.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:51:31 - Entry: (11664, 'Unibet', 'Tour of Flanders 2023', 'Vermeersch, Florian', 41.0, '2023/04/02 15:19:56', '48.3')
+2023/04/02 15:51:31 - Entry: (11737, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 2.25, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:51:31 - Entry: (11709, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.0, '2023/04/02 15:37:15', '37.9')
+2023/04/02 15:51:32 - Odds changed: 8
+2023/04/02 15:52:32 - Entry: (11738, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 6.5, '2023/04/02 15:52:32', '27.1')
+2023/04/02 15:52:32 - Entry: (11735, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 7.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:52:33 - Odds changed: 1
+2023/04/02 15:53:33 - Entry: (11739, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 101.0, '2023/04/02 15:53:33', '26.4')
+2023/04/02 15:53:33 - Entry: (11701, 'Unibet', 'Tour of Flanders 2023', 'Laporte, Christophe', 51.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 15:53:33 - Entry: (11740, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 401.0, '2023/04/02 15:53:33', '26.4')
+2023/04/02 15:53:33 - Entry: (11717, 'Unibet', 'Tour of Flanders 2023', 'Narvaez, Jhonathan', 81.0, '2023/04/02 15:39:17', '36.5')
+2023/04/02 15:53:33 - Entry: (11741, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 201.0, '2023/04/02 15:53:33', '26.4')
+2023/04/02 15:53:33 - Entry: (11685, 'Unibet', 'Tour of Flanders 2023', 'Pidcock, Tom', 51.0, '2023/04/02 15:27:04', '43.2')
+2023/04/02 15:53:34 - Entry: (11742, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.25, '2023/04/02 15:53:33', '26.4')
+2023/04/02 15:53:34 - Entry: (11733, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:53:34 - Odds changed: 4
+2023/04/02 15:54:36 - Entry: (11743, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 21.0, '2023/04/02 15:54:34', '25.6')
+2023/04/02 15:54:36 - Entry: (11730, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 19.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:54:36 - Entry: (11744, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 26.0, '2023/04/02 15:54:34', '25.6')
+2023/04/02 15:54:36 - Entry: (11731, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 23.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:54:37 - Entry: (11745, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 7.0, '2023/04/02 15:54:34', '25.6')
+2023/04/02 15:54:37 - Entry: (11738, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 6.5, '2023/04/02 15:52:32', '27.1')
+2023/04/02 15:54:37 - Odds changed: 3
+2023/04/02 15:55:38 - Entry: (11746, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.5, '2023/04/02 15:55:37', '25.6')
+2023/04/02 15:55:38 - Entry: (11732, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:55:38 - Entry: (11747, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 15:55:37', '25.6')
+2023/04/02 15:55:38 - Entry: (11742, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.25, '2023/04/02 15:53:33', '26.4')
+2023/04/02 15:55:38 - Entry: (11748, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 21.0, '2023/04/02 15:55:37', '25.6')
+2023/04/02 15:55:38 - Entry: (11722, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 34.0, '2023/04/02 15:41:20', '35.3')
+2023/04/02 15:55:38 - Entry: (11749, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 2.1, '2023/04/02 15:55:37', '25.6')
+2023/04/02 15:55:38 - Entry: (11737, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 2.25, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:55:38 - Odds changed: 4
+2023/04/02 15:56:39 - Entry: (11750, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 41.0, '2023/04/02 15:56:38', '24.8')
+2023/04/02 15:56:39 - Entry: (11734, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 21.0, '2023/04/02 15:51:31', '27.8')
+2023/04/02 15:56:39 - Odds changed: 1
+2023/04/02 15:57:40 - Entry: (11751, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 3.5, '2023/04/02 15:57:39', '23.6')
+2023/04/02 15:57:40 - Entry: (11746, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.5, '2023/04/02 15:55:37', '25.6')
+2023/04/02 15:57:40 - Entry: (11752, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 6.5, '2023/04/02 15:57:39', '23.6')
+2023/04/02 15:57:40 - Entry: (11745, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 7.0, '2023/04/02 15:54:34', '25.6')
+2023/04/02 15:57:40 - Entry: (11753, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 101.0, '2023/04/02 15:57:39', '23.6')
+2023/04/02 15:57:40 - Entry: (11748, 'Unibet', 'Tour of Flanders 2023', 'Van Hooydonck, Nathan', 21.0, '2023/04/02 15:55:37', '25.6')
+2023/04/02 15:57:41 - Odds changed: 3
+2023/04/02 15:58:42 - Entry: (11754, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 34.0, '2023/04/02 15:58:41', '22.8')
+2023/04/02 15:58:42 - Entry: (11750, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 41.0, '2023/04/02 15:56:38', '24.8')
+2023/04/02 15:58:42 - Entry: (11755, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 7.5, '2023/04/02 15:58:41', '22.8')
+2023/04/02 15:58:42 - Entry: (11752, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 6.5, '2023/04/02 15:57:39', '23.6')
+2023/04/02 15:58:42 - Entry: (11756, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 2.0, '2023/04/02 15:58:41', '22.8')
+2023/04/02 15:58:42 - Entry: (11749, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 2.1, '2023/04/02 15:55:37', '25.6')
+2023/04/02 15:58:42 - Odds changed: 3
+2023/04/02 15:59:43 - Entry: (11757, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.0, '2023/04/02 15:59:42', '21.3')
+2023/04/02 15:59:43 - Entry: (11751, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 3.5, '2023/04/02 15:57:39', '23.6')
+2023/04/02 15:59:43 - Entry: (11758, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 51.0, '2023/04/02 15:59:42', '21.3')
+2023/04/02 15:59:43 - Entry: (11754, 'Unibet', 'Tour of Flanders 2023', 'Trentin, Matteo', 34.0, '2023/04/02 15:58:41', '22.8')
+2023/04/02 15:59:43 - Odds changed: 2
+2023/04/02 16:00:44 - Entry: (11759, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 26.0, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:00:44 - Entry: (11743, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 21.0, '2023/04/02 15:54:34', '25.6')
+2023/04/02 16:00:44 - Entry: (11760, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 34.0, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:00:44 - Entry: (11744, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 26.0, '2023/04/02 15:54:34', '25.6')
+2023/04/02 16:00:44 - Entry: (11761, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 3.5, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:00:44 - Entry: (11757, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 4.0, '2023/04/02 15:59:42', '21.3')
+2023/04/02 16:00:44 - Entry: (11762, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 8.0, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:00:44 - Entry: (11755, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 7.5, '2023/04/02 15:58:41', '22.8')
+2023/04/02 16:00:44 - Entry: (11763, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 51.0, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:00:44 - Entry: (11705, 'Unibet', 'Tour of Flanders 2023', 'Wright,\xa0Fred', 34.0, '2023/04/02 15:34:12', '39.0')
+2023/04/02 16:00:44 - Entry: (11764, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 41.0, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:00:44 - Entry: (11715, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 34.0, '2023/04/02 15:38:16', '37.2')
+2023/04/02 16:00:44 - Entry: (11765, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Aranburu, Alex', 201.0, '2023/04/02 16:00:43', None)
+2023/04/02 16:00:44 - Entry: (11261, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Aranburu, Alex', 401.0, '2023/04/02 10:46:31', None)
+2023/04/02 16:00:45 - Odds changed: 7
+2023/04/02 16:01:45 - Entry: (11766, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 3.0, '2023/04/02 16:01:45', '19.8')
+2023/04/02 16:01:45 - Entry: (11761, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 3.5, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:01:45 - Entry: (11767, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 16:01:45', '19.8')
+2023/04/02 16:01:45 - Entry: (11747, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 15:55:37', '25.6')
+2023/04/02 16:01:45 - Entry: (11768, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 10.0, '2023/04/02 16:01:45', '19.8')
+2023/04/02 16:01:45 - Entry: (11762, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 8.0, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:01:45 - Entry: (11769, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 2.1, '2023/04/02 16:01:45', '19.8')
+2023/04/02 16:01:45 - Entry: (11756, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 2.0, '2023/04/02 15:58:41', '22.8')
+2023/04/02 16:01:46 - Odds changed: 4
+2023/04/02 16:02:46 - Entry: (11770, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 2.75, '2023/04/02 16:02:46', '19.1')
+2023/04/02 16:02:46 - Entry: (11766, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 3.0, '2023/04/02 16:01:45', '19.8')
+2023/04/02 16:02:46 - Entry: (11771, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 16:02:46', '19.1')
+2023/04/02 16:02:46 - Entry: (11767, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 4.0, '2023/04/02 16:01:45', '19.8')
+2023/04/02 16:02:46 - Entry: (11772, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 8.0, '2023/04/02 16:02:46', '19.1')
+2023/04/02 16:02:46 - Entry: (11768, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 10.0, '2023/04/02 16:01:45', '19.8')
+2023/04/02 16:02:46 - Entry: (11773, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 2.25, '2023/04/02 16:02:46', '19.1')
+2023/04/02 16:02:46 - Entry: (11769, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 2.1, '2023/04/02 16:01:45', '19.8')
+2023/04/02 16:02:47 - Odds changed: 4
+2023/04/02 16:03:48 - Odds changed: 0
+2023/04/02 16:04:49 - Odds changed: 0
+2023/04/02 16:05:50 - Odds changed: 0
+2023/04/02 16:06:50 - Entry: (11774, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 41.0, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:06:50 - Entry: (11759, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 26.0, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:06:50 - Entry: (11775, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 41.0, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:06:50 - Entry: (11760, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 34.0, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:06:50 - Entry: (11776, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 10.0, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:06:50 - Entry: (11770, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 2.75, '2023/04/02 16:02:46', '19.1')
+2023/04/02 16:06:50 - Entry: (11777, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.25, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:06:50 - Entry: (11771, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 3.5, '2023/04/02 16:02:46', '19.1')
+2023/04/02 16:06:50 - Entry: (11778, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 21.0, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:06:50 - Entry: (11772, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 8.0, '2023/04/02 16:02:46', '19.1')
+2023/04/02 16:06:51 - Entry: (11779, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:06:51 - Entry: (11773, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 2.25, '2023/04/02 16:02:46', '19.1')
+2023/04/02 16:06:51 - Odds changed: 6
+2023/04/02 16:07:52 - Entry: (11780, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 51.0, '2023/04/02 16:07:51', '16.1')
+2023/04/02 16:07:52 - Entry: (11774, 'Unibet', 'Tour of Flanders 2023', 'Asgreen, Kasper', 41.0, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:07:52 - Entry: (11781, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 51.0, '2023/04/02 16:07:51', '16.1')
+2023/04/02 16:07:52 - Entry: (11711, 'Unibet', 'Tour of Flanders 2023', 'Jorgenson, Matteo', 41.0, '2023/04/02 15:38:16', '37.2')
+2023/04/02 16:07:52 - Entry: (11782, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 51.0, '2023/04/02 16:07:51', '16.1')
+2023/04/02 16:07:52 - Entry: (11775, 'Unibet', 'Tour of Flanders 2023', 'Küng, Stefan', 41.0, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:07:52 - Entry: (11783, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 12.0, '2023/04/02 16:07:51', '16.1')
+2023/04/02 16:07:52 - Entry: (11776, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 10.0, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:07:52 - Entry: (11784, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 34.0, '2023/04/02 16:07:51', '16.1')
+2023/04/02 16:07:52 - Entry: (11778, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 21.0, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:07:52 - Entry: (11785, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 51.0, '2023/04/02 16:07:51', '16.1')
+2023/04/02 16:07:52 - Entry: (11764, 'Unibet', 'Tour of Flanders 2023', 'Powless, Neilson', 41.0, '2023/04/02 16:00:43', '20.5')
+2023/04/02 16:07:52 - Odds changed: 6
+2023/04/02 16:08:53 - Entry: (11786, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.2, '2023/04/02 16:08:52', '15.4')
+2023/04/02 16:08:53 - Entry: (11777, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.25, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:08:53 - Entry: (11787, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.5, '2023/04/02 16:08:52', '15.4')
+2023/04/02 16:08:53 - Entry: (11779, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 16:06:50', '16.8')
+2023/04/02 16:08:54 - Odds changed: 2
+2023/04/02 16:09:55 - Entry: (11788, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 15.0, '2023/04/02 16:09:54', '14.6')
+2023/04/02 16:09:55 - Entry: (11783, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 12.0, '2023/04/02 16:07:51', '16.1')
+2023/04/02 16:09:55 - Entry: (11789, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 41.0, '2023/04/02 16:09:54', '14.6')
+2023/04/02 16:09:55 - Entry: (11784, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 34.0, '2023/04/02 16:07:51', '16.1')
+2023/04/02 16:09:55 - Entry: (11790, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 16:09:54', '14.6')
+2023/04/02 16:09:55 - Entry: (11787, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.5, '2023/04/02 16:08:52', '15.4')
+2023/04/02 16:09:55 - Odds changed: 3
+2023/04/02 16:10:56 - Entry: (11791, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.13, '2023/04/02 16:10:55', '13.9')
+2023/04/02 16:10:56 - Entry: (11786, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.2, '2023/04/02 16:08:52', '15.4')
+2023/04/02 16:10:56 - Entry: (11792, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 7.0, '2023/04/02 16:10:55', '13.9')
+2023/04/02 16:10:56 - Entry: (11790, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.0, '2023/04/02 16:09:54', '14.6')
+2023/04/02 16:10:56 - Odds changed: 2
+2023/04/02 16:11:57 - Entry: (11793, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 23.0, '2023/04/02 16:11:56', '13.2')
+2023/04/02 16:11:57 - Entry: (11788, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 15.0, '2023/04/02 16:09:54', '14.6')
+2023/04/02 16:11:57 - Entry: (11794, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.2, '2023/04/02 16:11:56', '13.2')
+2023/04/02 16:11:57 - Entry: (11791, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.13, '2023/04/02 16:10:55', '13.9')
+2023/04/02 16:11:57 - Entry: (11795, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 21.0, '2023/04/02 16:11:56', '13.2')
+2023/04/02 16:11:57 - Entry: (11789, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 41.0, '2023/04/02 16:09:54', '14.6')
+2023/04/02 16:11:57 - Entry: (11796, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.0, '2023/04/02 16:11:56', '13.2')
+2023/04/02 16:11:57 - Entry: (11792, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 7.0, '2023/04/02 16:10:55', '13.9')
+2023/04/02 16:11:57 - Odds changed: 4
+2023/04/02 16:12:58 - Entry: (11797, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 34.0, '2023/04/02 16:12:57', '12.5')
+2023/04/02 16:12:58 - Entry: (11793, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 23.0, '2023/04/02 16:11:56', '13.2')
+2023/04/02 16:12:58 - Entry: (11798, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.13, '2023/04/02 16:12:57', '12.5')
+2023/04/02 16:12:58 - Entry: (11794, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.2, '2023/04/02 16:11:56', '13.2')
+2023/04/02 16:12:58 - Entry: (11799, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 34.0, '2023/04/02 16:12:57', '12.5')
+2023/04/02 16:12:58 - Entry: (11795, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 21.0, '2023/04/02 16:11:56', '13.2')
+2023/04/02 16:12:58 - Entry: (11800, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.5, '2023/04/02 16:12:57', '12.5')
+2023/04/02 16:12:58 - Entry: (11796, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 4.0, '2023/04/02 16:11:56', '13.2')
+2023/04/02 16:12:59 - Odds changed: 4
+2023/04/02 16:13:59 - Entry: (11801, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.11, '2023/04/02 16:13:59', '11.4')
+2023/04/02 16:13:59 - Entry: (11798, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.13, '2023/04/02 16:12:57', '12.5')
+2023/04/02 16:13:59 - Entry: (11802, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 6.5, '2023/04/02 16:13:59', '11.4')
+2023/04/02 16:13:59 - Entry: (11800, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 5.5, '2023/04/02 16:12:57', '12.5')
+2023/04/02 16:14:00 - Odds changed: 2
+2023/04/02 16:15:01 - Odds changed: 0
+2023/04/02 16:16:01 - Entry: (11803, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 51.0, '2023/04/02 16:16:01', '9.3')
+2023/04/02 16:16:01 - Entry: (11797, 'Unibet', 'Tour of Flanders 2023', 'Pedersen, Mads', 34.0, '2023/04/02 16:12:57', '12.5')
+2023/04/02 16:16:01 - Entry: (11804, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.06, '2023/04/02 16:16:01', '9.3')
+2023/04/02 16:16:01 - Entry: (11801, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.11, '2023/04/02 16:13:59', '11.4')
+2023/04/02 16:16:01 - Entry: (11805, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 51.0, '2023/04/02 16:16:01', '9.3')
+2023/04/02 16:16:01 - Entry: (11799, 'Unibet', 'Tour of Flanders 2023', 'Van Aert, Wout', 34.0, '2023/04/02 16:12:57', '12.5')
+2023/04/02 16:16:01 - Entry: (11806, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 9.0, '2023/04/02 16:16:01', '9.3')
+2023/04/02 16:16:01 - Entry: (11802, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 6.5, '2023/04/02 16:13:59', '11.4')
+2023/04/02 16:16:02 - Odds changed: 4
+2023/04/02 16:17:02 - Entry: (11807, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.02, '2023/04/02 16:17:02', '8.4')
+2023/04/02 16:17:02 - Entry: (11804, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.06, '2023/04/02 16:16:01', '9.3')
+2023/04/02 16:17:02 - Entry: (11808, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 15.0, '2023/04/02 16:17:02', '8.4')
+2023/04/02 16:17:02 - Entry: (11806, 'Unibet', 'Tour of Flanders 2023', 'van der Poel, Mathieu', 9.0, '2023/04/02 16:16:01', '9.3')
+2023/04/02 16:17:03 - Odds changed: 2
+2023/04/02 16:18:04 - Odds changed: 0
+2023/04/02 16:19:04 - Entry: (11809, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.01, '2023/04/02 16:19:04', '7.0')
+2023/04/02 16:19:04 - Entry: (11807, 'Unibet', 'Tour of Flanders 2023', 'Pogacar, Tadej', 1.02, '2023/04/02 16:17:02', '8.4')
+2023/04/02 16:19:05 - Odds changed: 1
+2023/04/02 16:20:06 - Odds changed: 0
+2023/04/02 16:21:07 - Odds changed: 0
+2023/04/02 16:22:08 - Odds changed: 0
+2023/04/02 16:23:10 - Odds changed: 0
+2023/04/02 16:24:11 - Odds changed: 0
+2023/04/02 16:25:12 - Entry: (11810, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Aranburu, Alex', 101.0, '2023/04/02 16:25:11', None)
+2023/04/02 16:25:12 - Entry: (11765, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Aranburu, Alex', 201.0, '2023/04/02 16:00:43', None)
+2023/04/02 16:25:12 - Odds changed: 1
+2023/04/02 16:26:14 - Odds changed: 0
+2023/04/02 16:27:15 - Odds changed: 0
+2023/04/02 16:28:16 - Odds changed: 0
+2023/04/02 16:29:17 - Odds changed: 0
+2023/04/02 16:30:17 - Odds changed: 0
+2023/04/02 16:31:18 - Odds changed: 0
+2023/04/02 16:32:19 - Odds changed: 0
+2023/04/02 16:33:20 - Odds changed: 0
+2023/04/02 16:34:20 - Odds changed: 0
+2023/04/02 16:35:21 - Odds changed: 0
+2023/04/02 16:36:19 - Odds changed: 0
+2023/04/02 18:37:04 - Entry: (11811, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Gaudu, David', 101.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (11370, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Gaudu, David', 151.0, '2023/04/02 12:29:32', None)
+2023/04/02 18:37:04 - Entry: (11812, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Gaudu, David', 5.5, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (11275, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Gaudu, David', 6.0, '2023/04/02 10:46:31', None)
+2023/04/02 18:37:04 - Entry: (11813, 'Unibet', 'Paris - Roubaix 2023', 'Alaphilippe, Julian', 81.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (11239, 'Unibet', 'Paris - Roubaix 2023', 'Alaphilippe, Julian', 67.0, '2023/04/02 09:54:29', None)
+2023/04/02 18:37:04 - Entry: (11814, 'Unibet', 'Paris - Roubaix 2023', 'Asgreen, Kasper', 23.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (626, 'Unibet', 'Paris - Roubaix 2023', 'Asgreen, Kasper', 34.0, '2023/03/11 22:02:58', None)
+2023/04/02 18:37:04 - Entry: (11815, 'Unibet', 'Paris - Roubaix 2023', 'Benoot, Tiesj', 51.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (6180, 'Unibet', 'Paris - Roubaix 2023', 'Benoot, Tiesj', 34.0, '2023/03/23 15:32:31', None)
+2023/04/02 18:37:04 - Entry: (11816, 'Unibet', 'Paris - Roubaix 2023', 'Bettiol, Alberto', 201.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (11018, 'Unibet', 'Paris - Roubaix 2023', 'Bettiol, Alberto', 151.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:04 - Entry: (11817, 'Unibet', 'Paris - Roubaix 2023', 'Degenkolb, John', 51.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (11023, 'Unibet', 'Paris - Roubaix 2023', 'Degenkolb, John', 101.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:04 - Entry: (11818, 'Unibet', 'Paris - Roubaix 2023', 'Girmay Hailu, Biniam', 151.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (11031, 'Unibet', 'Paris - Roubaix 2023', 'Girmay Hailu, Biniam', 126.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:04 - Entry: (11819, 'Unibet', 'Paris - Roubaix 2023', 'Honore, Mikkel Frølich', 301.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (11036, 'Unibet', 'Paris - Roubaix 2023', 'Honore, Mikkel Frølich', 501.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:04 - Entry: (11820, 'Unibet', 'Paris - Roubaix 2023', 'Kristoff, Alexander', 51.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (3294, 'Unibet', 'Paris - Roubaix 2023', 'Kristoff, Alexander', 81.0, '2023/03/19 13:29:23', None)
+2023/04/02 18:37:04 - Entry: (11821, 'Unibet', 'Paris - Roubaix 2023', 'Küng, Stefan', 26.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (3295, 'Unibet', 'Paris - Roubaix 2023', 'Küng, Stefan', 34.0, '2023/03/19 13:29:23', None)
+2023/04/02 18:37:04 - Entry: (11822, 'Unibet', 'Paris - Roubaix 2023', 'Laporte, Christophe', 12.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (11242, 'Unibet', 'Paris - Roubaix 2023', 'Laporte, Christophe', 15.0, '2023/04/02 09:54:29', None)
+2023/04/02 18:37:04 - Entry: (11823, 'Unibet', 'Paris - Roubaix 2023', 'Merlier, Tim', 81.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:04 - Entry: (695, 'Unibet', 'Paris - Roubaix 2023', 'Merlier, Tim', 101.0, '2023/03/11 22:02:58', None)
+2023/04/02 18:37:05 - Entry: (11824, 'Unibet', 'Paris - Roubaix 2023', 'Mohoric, Matej', 26.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (11047, 'Unibet', 'Paris - Roubaix 2023', 'Mohoric, Matej', 21.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:05 - Entry: (11825, 'Unibet', 'Paris - Roubaix 2023', 'Pedersen, Mads', 7.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (11244, 'Unibet', 'Paris - Roubaix 2023', 'Pedersen, Mads', 15.0, '2023/04/02 09:54:29', None)
+2023/04/02 18:37:05 - Entry: (11826, 'Unibet', 'Paris - Roubaix 2023', 'Philipsen, Jasper', 81.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (6159, 'Unibet', 'Paris - Roubaix 2023', 'Philipsen, Jasper', 51.0, '2023/03/22 21:59:09', None)
+2023/04/02 18:37:05 - Entry: (11827, 'Unibet', 'Paris - Roubaix 2023', 'Politt, Nils', 23.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (11056, 'Unibet', 'Paris - Roubaix 2023', 'Politt, Nils', 34.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:05 - Entry: (11828, 'Unibet', 'Paris - Roubaix 2023', 'Rutsch, Jonas', 201.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (11057, 'Unibet', 'Paris - Roubaix 2023', 'Rutsch, Jonas', 401.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:05 - Entry: (11829, 'Unibet', 'Paris - Roubaix 2023', 'Sagan, Peter', 126.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (11058, 'Unibet', 'Paris - Roubaix 2023', 'Sagan, Peter', 81.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:05 - Entry: (11830, 'Unibet', 'Paris - Roubaix 2023', 'Sheffield, Magnus', 126.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (11059, 'Unibet', 'Paris - Roubaix 2023', 'Sheffield, Magnus', 81.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:05 - Entry: (11831, 'Unibet', 'Paris - Roubaix 2023', 'Stuyven, Jasper', 81.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (11062, 'Unibet', 'Paris - Roubaix 2023', 'Stuyven, Jasper', 67.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:05 - Entry: (11832, 'Unibet', 'Paris - Roubaix 2023', 'Tratnik, Jan', 101.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (746, 'Unibet', 'Paris - Roubaix 2023', 'Tratnik, Jan', 67.0, '2023/03/11 22:02:58', None)
+2023/04/02 18:37:05 - Entry: (11833, 'Unibet', 'Paris - Roubaix 2023', 'Trentin, Matteo', 67.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (3303, 'Unibet', 'Paris - Roubaix 2023', 'Trentin, Matteo', 201.0, '2023/03/19 13:29:23', None)
+2023/04/02 18:37:05 - Entry: (11834, 'Unibet', 'Paris - Roubaix 2023', 'Turner, Ben', 101.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (11247, 'Unibet', 'Paris - Roubaix 2023', 'Turner, Ben', 67.0, '2023/04/02 09:54:29', None)
+2023/04/02 18:37:05 - Entry: (11835, 'Unibet', 'Paris - Roubaix 2023', 'Wright,\xa0Fred', 51.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (11077, 'Unibet', 'Paris - Roubaix 2023', 'Wright,\xa0Fred', 101.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:05 - Entry: (11836, 'Unibet', 'Paris - Roubaix 2023', 'van der Hoorn, Taco', 151.0, '2023/04/02 18:37:04', None)
+2023/04/02 18:37:05 - Entry: (11081, 'Unibet', 'Paris - Roubaix 2023', 'van der Hoorn, Taco', 101.0, '2023/03/26 17:34:44', None)
+2023/04/02 18:37:05 - Odds changed: 26
+2023/04/02 18:47:06 - Odds changed: 0
+2023/04/02 18:57:07 - Odds changed: 0
+2023/04/02 19:07:09 - Odds changed: 0
+2023/04/02 19:17:10 - Odds changed: 0
+2023/04/02 19:27:11 - Odds changed: 0
+2023/04/02 19:37:12 - Odds changed: 0
+2023/04/02 19:47:13 - Odds changed: 0
+2023/04/02 19:57:14 - Odds changed: 0
+2023/04/02 20:07:16 - Odds changed: 0
+2023/04/02 20:17:17 - Odds changed: 0
+2023/04/02 20:27:18 - Odds changed: 0
+2023/04/02 20:37:19 - Odds changed: 0
+2023/04/02 20:47:21 - Odds changed: 0
+2023/04/02 20:57:22 - Odds changed: 0
+2023/04/02 21:07:23 - Odds changed: 0
+2023/04/02 21:17:25 - Odds changed: 0
+2023/04/02 21:27:26 - Odds changed: 0
+2023/04/02 21:37:27 - Odds changed: 0
+2023/04/02 21:47:29 - Odds changed: 0
+2023/04/02 21:57:29 - Entry: (11837, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Aberasturi, Jon', 11.0, '2023/04/02 21:57:29', None)
+2023/04/02 21:57:29 - Entry: (11343, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Aberasturi, Jon', 10.0, '2023/04/02 12:29:32', None)
+2023/04/02 21:57:29 - Entry: (11838, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Aranburu, Alex', 5.5, '2023/04/02 21:57:29', None)
+2023/04/02 21:57:29 - Entry: (11344, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Aranburu, Alex', 6.0, '2023/04/02 12:29:32', None)
+2023/04/02 21:57:29 - Entry: (11839, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Bagioli, Andrea', 15.0, '2023/04/02 21:57:29', None)
+2023/04/02 21:57:29 - Entry: (11347, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Bagioli, Andrea', 12.0, '2023/04/02 12:29:32', None)
+2023/04/02 21:57:29 - Entry: (11840, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Formolo, Davide', 201.0, '2023/04/02 21:57:29', None)
+2023/04/02 21:57:29 - Entry: (11366, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Formolo, Davide', 401.0, '2023/04/02 12:29:32', None)
+2023/04/02 21:57:29 - Entry: (11841, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Gaudu, David', 67.0, '2023/04/02 21:57:29', None)
+2023/04/02 21:57:29 - Entry: (11811, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Gaudu, David', 101.0, '2023/04/02 18:37:04', None)
+2023/04/02 21:57:29 - Entry: (11842, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Hayter, Ethan', 7.5, '2023/04/02 21:57:29', None)
+2023/04/02 21:57:29 - Entry: (11376, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Hayter, Ethan', 8.0, '2023/04/02 12:29:32', None)
+2023/04/02 21:57:29 - Entry: (11843, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Hermans, Quinten', 10.0, '2023/04/02 21:57:29', None)
+2023/04/02 21:57:29 - Entry: (11377, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Hermans, Quinten', 11.0, '2023/04/02 12:29:32', None)
+2023/04/02 21:57:29 - Entry: (11844, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Skjelmose, Mattias', 26.0, '2023/04/02 21:57:29', None)
+2023/04/02 21:57:29 - Entry: (11403, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Skjelmose, Mattias', 34.0, '2023/04/02 12:29:32', None)
+2023/04/02 21:57:29 - Entry: (11845, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Vendrame, Andrea', 17.0, '2023/04/02 21:57:29', None)
+2023/04/02 21:57:29 - Entry: (11411, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Vendrame, Andrea', 13.0, '2023/04/02 12:29:32', None)
+2023/04/02 21:57:29 - Entry: (11846, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Vingegaard, Jonas', 101.0, '2023/04/02 21:57:29', None)
+2023/04/02 21:57:29 - Entry: (11412, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Vingegaard, Jonas', 201.0, '2023/04/02 12:29:32', None)
+2023/04/02 21:57:30 - Odds changed: 10
+2023/04/02 22:07:30 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Bizkarra, Mikel', '501.0', '2023/04/02 22:07:30', None)
+2023/04/02 22:07:30 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Taaramae, Rein', '601.0', '2023/04/02 22:07:30', None)
+2023/04/02 22:07:30 - Inserted new entry: (None, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Urán, Rigoberto', '501.0', '2023/04/02 22:07:30', None)
+2023/04/02 22:07:30 - Entry: (11850, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Bilbao, Pello', 13.0, '2023/04/02 22:07:30', None)
+2023/04/02 22:07:30 - Entry: (11263, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Bilbao, Pello', 15.0, '2023/04/02 10:46:31', None)
+2023/04/02 22:07:30 - Entry: (11851, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Gaudu, David', 4.0, '2023/04/02 22:07:30', None)
+2023/04/02 22:07:30 - Entry: (11812, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Gaudu, David', 5.5, '2023/04/02 18:37:04', None)
+2023/04/02 22:07:31 - Entry: (11852, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Martinez, Daniel Felipe', 17.0, '2023/04/02 22:07:30', None)
+2023/04/02 22:07:31 - Entry: (11287, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Martinez, Daniel Felipe', 13.0, '2023/04/02 10:46:31', None)
+2023/04/02 22:07:31 - Entry: (11853, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Mas, Enric', 9.0, '2023/04/02 22:07:30', None)
+2023/04/02 22:07:31 - Entry: (11288, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Mas, Enric', 7.5, '2023/04/02 10:46:31', None)
+2023/04/02 22:07:31 - Entry: (11854, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Vingegaard, Jonas', 3.25, '2023/04/02 22:07:30', None)
+2023/04/02 22:07:31 - Entry: (11301, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Vingegaard, Jonas', 2.75, '2023/04/02 10:46:31', None)
+2023/04/02 22:07:31 - Entry: (11855, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Yates, Simon', 12.0, '2023/04/02 22:07:30', None)
+2023/04/02 22:07:31 - Entry: (11302, 'Unibet', 'General Classification (Itzulia Basque Country 2023)', 'Yates, Simon', 11.0, '2023/04/02 10:46:31', None)
+2023/04/02 22:07:31 - Odds changed: 6
+2023/04/02 22:17:33 - Odds changed: 0
+2023/04/02 22:27:34 - Odds changed: 0
+2023/04/02 22:37:35 - Odds changed: 0
+2023/04/02 22:47:37 - Odds changed: 0
+2023/04/02 22:57:37 - Entry: (11856, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Aranburu, Alex', 5.0, '2023/04/02 22:57:37', None)
+2023/04/02 22:57:37 - Entry: (11838, 'Unibet', 'Stage 1 (Itzulia Basque Country 2023)', 'Aranburu, Alex', 5.5, '2023/04/02 21:57:29', None)
+2023/04/02 22:57:38 - Odds changed: 1
+2023/04/02 23:07:39 - Odds changed: 0
+2023/04/02 23:17:40 - Entry: (11857, 'Unibet', 'Paris - Roubaix 2023', 'Honore, Mikkel Frølich', 251.0, '2023/04/02 23:17:39', None)
+2023/04/02 23:17:40 - Entry: (11819, 'Unibet', 'Paris - Roubaix 2023', 'Honore, Mikkel Frølich', 301.0, '2023/04/02 18:37:04', None)
+2023/04/02 23:17:41 - Odds changed: 1
+2023/04/02 23:27:41 - Entry: (11858, 'Unibet', 'Paris - Roubaix 2023', 'Honore, Mikkel Frølich', 201.0, '2023/04/02 23:27:41', None)
+2023/04/02 23:27:41 - Entry: (11857, 'Unibet', 'Paris - Roubaix 2023', 'Honore, Mikkel Frølich', 251.0, '2023/04/02 23:17:39', None)
+2023/04/02 23:27:42 - Odds changed: 1
+2023/04/02 23:37:43 - Odds changed: 0
+2023/04/02 23:47:44 - Odds changed: 0
+2023/04/02 23:57:46 - Odds changed: 0
+2023/04/03 00:07:47 - Odds changed: 0
+2023/04/03 00:17:48 - Odds changed: 0
+2023/04/03 00:27:49 - Odds changed: 0
+2023/04/03 00:37:50 - Odds changed: 0
